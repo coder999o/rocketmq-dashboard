@@ -1,0 +1,21 @@
+web/src/api/client.test.ts
+  s_9216308bd7d0fb::t_8a245564145ba6 93-103,161
+web/src/api/client.ts
+  s_9216308bd7d0fb::t_8cc540a2a8a42c 89-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1a1af6f55210964619fd27d8aa1a7e03f08e5c4a",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
