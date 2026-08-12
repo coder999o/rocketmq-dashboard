@@ -1,0 +1,40 @@
+web/src/pages/instance/topic.tsx
+  s_9216308bd7d0fb::t_2d9a506ff49f50 74,96,112
+web/src/pages/cluster/__tests__/ClientsPage.test.tsx
+  s_9216308bd7d0fb::t_371e6b1b1424db 196,201-233,237-239,255
+  s_9216308bd7d0fb::t_fb2f54822835f0 197-200,234-236,286-288,326-328
+web/src/pages/instance/dlq.tsx
+  s_9216308bd7d0fb::t_f0e88ac0a0cbcd 42,80-87,90
+web/src/pages/cluster/clients.tsx
+  s_9216308bd7d0fb::t_c0b79ff7aab2d0 251-255
+  s_9216308bd7d0fb::t_183c5506e06e15 35,45,73-85,250,463-469
+web/src/utils/download.ts
+  s_9216308bd7d0fb::t_b65a43de43c8a3 29-49
+web/src/pages/studio/Producer.tsx
+  s_9216308bd7d0fb::t_1ac9dc8f9d6a7d 32,45,53-72,248-261,265,332-340
+  s_9216308bd7d0fb::t_3304d2cbba7772 262-264
+web/src/pages/studio/__tests__/Producer.test.tsx
+  s_9216308bd7d0fb::t_4e6606ca225456 307
+  s_9216308bd7d0fb::t_6cf4047779e97e 18,104-107,265,281,291,293
+  s_9216308bd7d0fb::t_ebe13bd4cff0c9 242-264,266-280,282-290,292,294-306
+web/src/pages/instance/consumer.tsx
+  s_9216308bd7d0fb::t_826d15e334c9ce 88,124,141
+web/src/utils/download.test.ts
+  s_9216308bd7d0fb::t_manual_full_hunk_runtime_diagnostics_csv 19-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c2aff20f612f95cc09900c9bf9cf4c641e75e285",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
