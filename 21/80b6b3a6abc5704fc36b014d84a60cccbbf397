@@ -1,0 +1,31 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressDTO.java
+  s_9216308bd7d0fb::t_96a496bd94e71b 1-32
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyController.java
+  s_9216308bd7d0fb::t_e5885454076a8e 24,54-65
+server/src/test/java/org/apache/rocketmq/studio/cluster/proxy/ProxyControllerTest.java
+  s_9216308bd7d0fb::t_967f13277776dc 163-219
+web/src/api/proxy.test.ts
+  s_9216308bd7d0fb::t_7e6588e3ae6816 21,57-82
+web/src/api/proxy.ts
+  s_9216308bd7d0fb::t_d49acb8d08235e 63-74
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_032893c7225f44 1113-1123
+web/src/pages/studio/__tests__/Proxy.test.tsx
+  s_9216308bd7d0fb::t_f89ec30b297b90 22-27,32,35,81,85,166-212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2180b6b3a6abc5704fc36b014d84a60cccbbf397",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "unknown"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
