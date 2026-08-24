@@ -1,0 +1,47 @@
+server/src/main/java/org/apache/rocketmq/studio/instance/acl/UpdateAclUserDTO.java
+  h_852ebd835e0ec3 19,26-27,44,52-61
+  h_852ebd835e0ec3 62
+server/src/test/java/org/apache/rocketmq/studio/provider/tencent/TencentAclServiceTest.java
+  h_852ebd835e0ec3 26,35,155-212
+  h_852ebd835e0ec3 213
+web/src/api/acl.ts
+  h_852ebd835e0ec3 11-12,14,51,77,91,93,109
+web/src/pages/instance/acl.tsx
+  h_852ebd835e0ec3 70,79,95,123-124,161-164,166,264-266,291-300,305,311-312,328,343-344,346-347,357,360,363,369,430,441,727,747,777,957,959,1274-1278,1294,1298,1321,1334,1372,1381
+  h_852ebd835e0ec3 958,960,1279-1283,1369-1371,1373
+server/src/main/java/org/apache/rocketmq/studio/instance/acl/UpdateAclRuleDTO.java
+  h_852ebd835e0ec3 26-27,43,54-63
+  h_852ebd835e0ec3 64
+web/src/services/aclService.ts
+  h_852ebd835e0ec3 4,111
+  h_852ebd835e0ec3 112-114,162,207
+server/src/test/java/org/apache/rocketmq/studio/instance/acl/AclServiceTest.java
+  h_852ebd835e0ec3 477,510,529,544,559,643
+web/src/pages/instance/__tests__/AclPage.test.tsx
+  h_852ebd835e0ec3 24,201-310
+  h_852ebd835e0ec3 311-312
+web/src/i18n/translations.ts
+  h_852ebd835e0ec3 398-405
+server/src/main/java/org/apache/rocketmq/studio/provider/tencent/TencentAclService.java
+  h_852ebd835e0ec3 222-224,265-284
+  h_852ebd835e0ec3 285-286
+server/src/main/java/org/apache/rocketmq/studio/instance/acl/AclService.java
+  h_852ebd835e0ec3 188,191-193
+web/src/api/acl.test.ts
+  h_852ebd835e0ec3 28,144-176
+  h_852ebd835e0ec3 177-178
+server/src/test/java/org/apache/rocketmq/studio/instance/acl/AclControllerTest.java
+  h_852ebd835e0ec3 224-261,407,431-461
+  h_852ebd835e0ec3 223,462-463
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e12d2cac3d3831f767fe1b0cecaea862b385fd42",
+  "prompts": {},
+  "humans": {
+    "h_852ebd835e0ec3": {
+      "author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
