@@ -1,0 +1,37 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionService.java
+  s_9216308bd7d0fb::t_25b8807d3213de 41,61-62
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionVO.java
+  s_9216308bd7d0fb::t_940da4e8037c61 31-32
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQClientProvider.java
+  s_9216308bd7d0fb::t_48280eb09ac910 133-161
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionServiceTest.java
+  s_9216308bd7d0fb::t_393b691edeea6c 65-66,82-90
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ProducerControllerTest.java
+  s_9216308bd7d0fb::t_ff7d824421a2f6 67-68,83-84,108-111,115-118,120
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQClientProviderTest.java
+  s_9216308bd7d0fb::t_4254a15070c484 284-337
+web/src/api/producer.test.ts
+  s_9216308bd7d0fb::t_750c1d81a413b6 98-99,120,125-151
+web/src/api/producer.ts
+  s_9216308bd7d0fb::t_2217844764bdb6 24-25,183
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_9d9d36337cc853 1241-1244
+web/src/pages/studio/__tests__/Producer.test.tsx
+  s_9216308bd7d0fb::t_7cf9aae4d4b519 222-234,246-250,323-324
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c74f3e79a02576e8a788c53236d7a15242033e16",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "unknown"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
