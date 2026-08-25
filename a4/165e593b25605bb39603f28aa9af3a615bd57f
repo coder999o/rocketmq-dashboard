@@ -1,0 +1,75 @@
+deploy/mysql/upgrade-studio-user.sql
+  s_b987c757c9f7e7::t_c6c0ec7e75103b 1-31
+server/src/main/java/org/apache/rocketmq/studio/instance/InstanceService.java
+  s_b987c757c9f7e7::t_68217159628d0a 25,67,595,603
+server/src/main/java/org/apache/rocketmq/studio/instance/message/MessageController.java
+  s_b987c757c9f7e7::t_89c349674524a2 65-79
+server/src/main/java/org/apache/rocketmq/studio/instance/message/MessageProvider.java
+  s_b987c757c9f7e7::t_cbe1a10f120813 27-30
+server/src/main/java/org/apache/rocketmq/studio/instance/message/MessageProviderStub.java
+  s_b987c757c9f7e7::t_35004829f99bda 44-56
+server/src/main/java/org/apache/rocketmq/studio/instance/message/MessageRecordVO.java
+  s_b987c757c9f7e7::t_73c551793dd522 35-37
+server/src/main/java/org/apache/rocketmq/studio/instance/message/MessageService.java
+  s_b987c757c9f7e7::t_f535d62b54768c 34,55,79-96
+server/src/main/java/org/apache/rocketmq/studio/instance/message/QueueOffsetVO.java
+  s_b987c757c9f7e7::t_3649df9ba1b6ba 17,20,25,28-32
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterConnectionServiceTest.java
+  s_b987c757c9f7e7::t_549a1b9a514132 54,70
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterControllerTest.java
+  s_b987c757c9f7e7::t_2fdad731e70926 91,119
+server/src/test/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressServiceTest.java
+  s_b987c757c9f7e7::t_3d173d3e657f28 289
+server/src/test/java/org/apache/rocketmq/studio/common/ProviderStubContractTest.java
+  s_b987c757c9f7e7::t_a7905b367e8269 17,19,21-29,34-45,47-71,73-76
+server/src/test/java/org/apache/rocketmq/studio/instance/InstanceServiceTest.java
+  s_b987c757c9f7e7::t_99942501c4a6a7 23,80-82,311
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/LlmConfigServiceTest.java
+  s_b987c757c9f7e7::t_fe26a9ac50ffe1 301,329,345,370,392,417,442,463,485,501,517
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/LlmControllerTest.java
+  s_b987c757c9f7e7::t_e4bb54b2c2ef3f 95
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/OpenAiCompatibleLlmClientTest.java
+  s_b987c757c9f7e7::t_812fc5f70e2c2e 192
+server/src/test/java/org/apache/rocketmq/studio/settings/SettingsControllerTest.java
+  s_b987c757c9f7e7::t_58aad49550738d 465,486
+server/src/test/java/org/apache/rocketmq/studio/settings/SettingsServiceTest.java
+  s_b987c757c9f7e7::t_2a725f83368331 488,504,525,553,571,584,597,610,630,670,684,696,715,727
+web/src/api/message.ts
+  s_b987c757c9f7e7::t_bc6bb8e425889d 9-11,148-173
+web/src/components/MessageQueryHistoryDrawer.tsx
+  s_b987c757c9f7e7::t_51e1e32848feae 23-24,34-40,165-172,186-193
+web/src/components/QueueBrowser.tsx
+  s_b987c757c9f7e7::t_10a3cd36040c51 17,19-48,51-128,130-364
+web/src/pages/instance/__tests__/MessagePage.test.tsx
+  s_b987c757c9f7e7::t_d61cdc0cbf8998 65-67
+web/src/pages/instance/__tests__/MessagePageAsyncState.test.tsx
+  s_b987c757c9f7e7::t_34f3d0e1045edf 86-88
+web/src/pages/instance/__tests__/TopicPage.test.tsx
+  s_b987c757c9f7e7::t_f9c92029a3ffe2 183
+web/src/pages/instance/acl.tsx
+  s_b987c757c9f7e7::t_6b30812a8ce6e4 963,1073,1131
+web/src/pages/instance/consumer.tsx
+  s_b987c757c9f7e7::t_a6b81206abd179 43,60,344,346,351,357-374,376-379,419,433-439,457-461,758,760,1220-1228,1238-1239,1248,1542-1584
+web/src/pages/instance/index.tsx
+  s_b987c757c9f7e7::t_f30ab6b87b6466 72-74
+web/src/pages/instance/message.tsx
+  s_b987c757c9f7e7::t_e2f6ab8291b467 54-59,75,92,249,342,358-367,369-373,375,379-384,435,455,464,466-470,472,709-788,791-797,799,801-817,821-822,841-842,848,858-878
+web/src/pages/instance/topic.tsx
+  s_b987c757c9f7e7::t_751ed5a8146485 91-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "a4165e593b25605bb39603f28aa9af3a615bd57f",
+  "prompts": {},
+  "sessions": {
+    "s_b987c757c9f7e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f354e-6f36-7262-b59c-448c41b80059",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
