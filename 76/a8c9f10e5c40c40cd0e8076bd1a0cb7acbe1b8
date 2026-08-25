@@ -1,0 +1,23 @@
+web/src/services/topicService.ts
+  s_9216308bd7d0fb::t_a73f6bf729a064 16,64,68,72
+web/src/services/consumerService.test.ts
+  s_9216308bd7d0fb::t_a73f6bf729a064 154-175
+web/src/services/consumerService.ts
+  s_9216308bd7d0fb::t_a73f6bf729a064 19,94,102-104,108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "76a8c9f10e5c40c40cd0e8076bd1a0cb7acbe1b8",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
