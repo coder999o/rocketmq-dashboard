@@ -1,0 +1,56 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterService.java
+  h_852ebd835e0ec3 20,45,47-48,164-183,369-374,376,379,382,385,388,391,394,397,402-456
+  h_852ebd835e0ec3 457-458
+web/src/services/clusterService.ts
+  h_852ebd835e0ec3 5,214-215,228-252,258-313
+  h_852ebd835e0ec3 314-315
+web/src/pages/cluster/index.tsx
+  h_852ebd835e0ec3 59-60,71,89-90,97-107,125-127,499-501,515-522,527-564,568-576,580-657,873-875,877-879,881-890,931
+  h_852ebd835e0ec3 523-526,565-567,577-579,658-659
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterController.java
+  h_852ebd835e0ec3 20,73-76
+  h_852ebd835e0ec3 77-78
+web/src/pages/cluster/__tests__/ClusterPage.test.tsx
+  h_852ebd835e0ec3 34,259-284,346-372
+  h_852ebd835e0ec3 373-374
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterServiceTest.java
+  h_852ebd835e0ec3 20,163-217
+  h_852ebd835e0ec3 218-219
+web/src/i18n/translations.ts
+  h_852ebd835e0ec3 680-689
+web/src/api/cluster.test.ts
+  h_852ebd835e0ec3 29,153-175
+  h_852ebd835e0ec3 176-179
+web/src/api/cluster.ts
+  h_852ebd835e0ec3 103-124,209-213
+  h_852ebd835e0ec3 214-218
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterControllerTest.java
+  h_852ebd835e0ec3 20,221-260
+  h_852ebd835e0ec3 261-262
+web/src/services/clusterService.test.ts
+  h_852ebd835e0ec3 32,93-114
+  h_852ebd835e0ec3 115-116
+server/src/main/java/org/apache/rocketmq/studio/cluster/config/ClusterConfigPreviewVO.java
+  s_9216308bd7d0fb::t_0f26ca113bc967 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "dd4d3e62128369366cb18546c09c1f1907c3a9a9",
+  "prompts": {},
+  "humans": {
+    "h_852ebd835e0ec3": {
+      "author": "coder999o <soft_99@126.com>"
+    }
+  },
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "unknown"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
