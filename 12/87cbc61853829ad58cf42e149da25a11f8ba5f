@@ -1,0 +1,22 @@
+web/src/pages/studio/BrokerCluster.tsx
+  s_9216308bd7d0fb::t_0bee13b71a2985 34,38,76-105,186,301-309,314-315,321-325,528-535,556
+  s_9216308bd7d0fb::t_f8999ff60a6b0b 20-26,300,310-313,316-320
+web/src/pages/studio/__tests__/BrokerCluster.test.tsx
+  s_9216308bd7d0fb::t_b9fa1c036965b2 26,37-45,186-208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1287cbc61853829ad58cf42e149da25a11f8ba5f",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
