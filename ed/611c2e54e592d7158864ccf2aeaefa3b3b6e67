@@ -1,0 +1,27 @@
+web/src/api/instance.ts
+  s_9216308bd7d0fb::t_cf07e04f0b6b6b 137-140
+web/src/api/instance.test.ts
+  s_9216308bd7d0fb::t_d7a59e2e8eb083 25,113-122
+  s_9216308bd7d0fb::t_aeb9e48a18e46a 123-124
+web/src/pages/instance/index.tsx
+  s_9216308bd7d0fb::t_6659119cab2fd4 726
+web/src/pages/instance/__tests__/InstancePage.test.tsx
+  s_9216308bd7d0fb::t_a3ec0142d12d62 25,122-123,459-510
+  s_9216308bd7d0fb::t_7dd29320ebc227 511-512
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ed611c2e54e592d7158864ccf2aeaefa3b3b6e67",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
