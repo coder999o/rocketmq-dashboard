@@ -1,0 +1,34 @@
+web/src/api/studioUsers.test.ts
+  s_9216308bd7d0fb::t_50775e3d85ea35 24
+  s_9216308bd7d0fb::t_4d5ccc919c9d92 25
+  s_9216308bd7d0fb::t_91ac424a2b24ee 21,63
+  s_9216308bd7d0fb::t_e836ce4b82d2cd 64-91
+web/src/pages/studio/__tests__/UserManagement.test.tsx
+  s_9216308bd7d0fb::t_35d2b2fab8e76e 80-83
+  s_9216308bd7d0fb::t_f161372bcd0ae1 21,23,25-27,30,33,40,44-52,78-79,84,109,144
+  s_9216308bd7d0fb::t_bedd4701334ec6 24,85-86,110
+  s_9216308bd7d0fb::t_4f6afe27fb67ea 87-89,132
+  s_9216308bd7d0fb::t_edfb6ea9e1cf9b 145-159
+web/src/api/studioUsers.ts
+  s_9216308bd7d0fb::t_a5222a984592d5 47,71,73,79-80
+  s_9216308bd7d0fb::t_c3e13461e07624 19-20,46,58-70
+  s_9216308bd7d0fb::t_75e030fc619a92 55-57,72
+web/src/pages/studio/UserManagement.tsx
+  s_9216308bd7d0fb::t_5842a10eb1aa00 33,40,47,66-74,91,194-214,256-268
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "03879c566ddb80a5f68902eb09b72a6826791eb7",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
