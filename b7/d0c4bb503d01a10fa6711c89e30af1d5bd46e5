@@ -1,0 +1,29 @@
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_c8bad6cea7d9bc 154-177
+  s_9216308bd7d0fb::t_e8eb0ff8cbe5bd 178-180
+web/src/pages/cluster/__tests__/ClusterPage.test.tsx
+  s_9216308bd7d0fb::t_336a20acf4a187 30,245-254,471-528
+  s_9216308bd7d0fb::t_67aa67eec20fc4 529-530
+web/src/pages/cluster/index.tsx
+  s_9216308bd7d0fb::t_b8abbbe8081d7d 750-869
+  s_9216308bd7d0fb::t_5c5c77c39a8d3b 1196-1232
+  s_9216308bd7d0fb::t_5e4b7237202055 39,64-65,70,95,135-145,299-336
+  s_9216308bd7d0fb::t_7e60fe4059307e 1597-1599
+  s_9216308bd7d0fb::t_c6547ef3ce8605 337
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "b7d0c4bb503d01a10fa6711c89e30af1d5bd46e5",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
