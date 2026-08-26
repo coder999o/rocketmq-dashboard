@@ -1,0 +1,23 @@
+web/src/components/MetricsExplorer.tsx
+  s_9216308bd7d0fb::t_9b176918074183 405,425-429,566,570-571,574
+  s_9216308bd7d0fb::t_7df1a7fe42a956 406-409
+web/src/components/__tests__/MetricsExplorer.test.tsx
+  s_9216308bd7d0fb::t_bb80b5d232043e 511-562,564
+  s_9216308bd7d0fb::t_6db24de7608918 563
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "df56f1dd937aa9d68433887dcc770239544c4415",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
