@@ -1,0 +1,25 @@
+web/src/pages/studio/LiteTopic.tsx
+  s_9216308bd7d0fb::t_46094a0f602d72 48,62,85-102,333-341,353-367,771-783
+web/src/pages/studio/__tests__/LiteTopic.test.tsx
+  s_9216308bd7d0fb::t_c96430662686f1 24,37-45,273-308
+  s_9216308bd7d0fb::t_226dd35bf18d36 309-310
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_7746c3b4964663 1680-1681
+  s_9216308bd7d0fb::t_51a06dacd01e68 1682-1687
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bc915afc2749483d1cc10133c172c2f9111c9087",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
