@@ -1,0 +1,24 @@
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_c548579e15bc96 1344-1348
+web/src/pages/studio/__tests__/Proxy.test.tsx
+  s_9216308bd7d0fb::t_d7244ad03d0178 24,34,83,216-256
+  s_9216308bd7d0fb::t_8b73e4fb0dbccb 257
+web/src/pages/studio/Proxy.tsx
+  s_9216308bd7d0fb::t_729d1f41c569b8 18,48,82,300-331,553-563,565-570
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f65eb157b52a364ea9e6d5f7978ccc86ce16323c",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
