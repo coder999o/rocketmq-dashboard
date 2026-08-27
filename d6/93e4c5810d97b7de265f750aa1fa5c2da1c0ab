@@ -1,0 +1,21 @@
+web/src/pages/home/index.tsx
+  s_9216308bd7d0fb::t_68ad3e4957e699 69-71,572-574,578,582-584,588,591
+web/src/pages/home/__tests__/HomePage.test.tsx
+  s_9216308bd7d0fb::t_71d88e9366f664 126-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d693e4c5810d97b7de265f750aa1fa5c2da1c0ab",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
