@@ -1,0 +1,62 @@
+web/src/pages/instance/__tests__/ConsumerPage.test.tsx
+  s_9216308bd7d0fb::t_a999af0b3175bc 34,40,131,153-172,337-343,353,356-357,360,781-785,787-791,798,801-804,832,835-857
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ImportConsumerGroupsResultVO.java
+  s_9216308bd7d0fb::t_55c9c5b5a28c9d 1-52
+web/src/api/metadata.test.ts
+  s_9216308bd7d0fb::t_a999af0b3175bc 24,29,146-205
+  s_9216308bd7d0fb::t_4d82177f4b1b48 206
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/MetadataServiceTest.java
+  s_9216308bd7d0fb::t_d50bf42fbf3ad8 21,23,26-27,36,40,46,363-453
+  s_9216308bd7d0fb::t_1f9e6e1d759b62 454
+server/src/test/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupControllerTest.java
+  s_9216308bd7d0fb::t_d50bf42fbf3ad8 102-119,153-188
+  s_9216308bd7d0fb::t_a6998f91656132 189
+web/src/services/consumerService.ts
+  s_9216308bd7d0fb::t_9457347110d883 5,11,18,23-38,82-103,260-293
+  s_b987c757c9f7e7::t_8139cffd3cba7c 294
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ImportConsumerGroupsDTO.java
+  s_9216308bd7d0fb::t_55c9c5b5a28c9d 1-37
+web/src/api/metadata.ts
+  s_9216308bd7d0fb::t_9457347110d883 148-169,339-341,344,346
+web/src/pages/instance/consumer.tsx
+  s_9216308bd7d0fb::t_9457347110d883 81,85,100,386,389-390,392-393,576,578-596
+  s_9216308bd7d0fb::t_a6ae3fd6e79fa7 604
+  s_8086a0f8d8490d::t_3b41bb255124c7 603,606,1912
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupController.java
+  s_9216308bd7d0fb::t_55c9c5b5a28c9d 33-34,91-108,150-160
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/MetadataService.java
+  s_9216308bd7d0fb::t_a6ae3fd6e79fa7 296-297
+  s_9216308bd7d0fb::t_55c9c5b5a28c9d 25,27-28,39-41,43,51,267-295,298-325,407-476
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "b5dfda22262bb69df3bf46413b048241bb434de7",
+  "prompts": {},
+  "sessions": {
+    "s_8086a0f8d8490d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea9f0-188c-7162-b5db-b43e72ef508b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    },
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    },
+    "s_b987c757c9f7e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f354e-6f36-7262-b59c-448c41b80059",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
