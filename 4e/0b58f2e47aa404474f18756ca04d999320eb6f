@@ -1,0 +1,52 @@
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/MetadataService.java
+  s_9216308bd7d0fb::t_4b93928deb8eb7 36-37,39,47,110-162,397-437
+web/src/services/topicService.ts
+  s_9216308bd7d0fb::t_32fce52fa4d334 5,13,16,20-34,53-61,123-152
+  s_8086a0f8d8490d::t_6b998f78138cb3 153
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/TopicControllerTest.java
+  s_9216308bd7d0fb::t_bae834848e97e6 125-140,173-209
+  s_9216308bd7d0fb::t_92e3ab8afe7160 210
+web/src/pages/instance/topic.tsx
+  s_9216308bd7d0fb::t_32fce52fa4d334 68,71,84,556,561-563,901,903-921,928-929,931,1459
+web/src/pages/instance/__tests__/TopicPage.test.tsx
+  s_9216308bd7d0fb::t_c51f4eb6a67ac9 32,36,139,152-169,243-249,259,265,418,430,434-444,446,451,470,477-485,502-503,506
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/ImportTopicsResultVO.java
+  s_9216308bd7d0fb::t_4b93928deb8eb7 1-52
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/TopicController.java
+  s_9216308bd7d0fb::t_4b93928deb8eb7 32-33,64-78,154-164
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/ImportTopicsDTO.java
+  s_9216308bd7d0fb::t_4b93928deb8eb7 1-37
+web/src/api/metadata.ts
+  s_9216308bd7d0fb::t_32fce52fa4d334 33-36,68-85,194-204
+  s_8086a0f8d8490d::t_59c1881c05d747 205
+web/src/api/metadata.test.ts
+  s_9216308bd7d0fb::t_c51f4eb6a67ac9 24,29,146-205
+  s_9216308bd7d0fb::t_3334074922d760 206
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/MetadataServiceTest.java
+  s_9216308bd7d0fb::t_bae834848e97e6 22-23,34,38,44,165-210,407-434
+  s_9216308bd7d0fb::t_e661113cecebe7 435
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4e0b58f2e47aa404474f18756ca04d999320eb6f",
+  "prompts": {},
+  "sessions": {
+    "s_8086a0f8d8490d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea9f0-188c-7162-b5db-b43e72ef508b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    },
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
