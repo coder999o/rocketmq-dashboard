@@ -1,0 +1,25 @@
+web/src/components/MetricsExplorer.tsx
+  s_9216308bd7d0fb::t_73d861ea9eec6a 20,23-24,29,34-36,41-42,47,49-66,103,106,313-339,363-389,391,406-411,417,437-440,445-447,451-455,458-459,490-514,518,538,558-559,568-569,576,579-585,590-591,648,650,653-660,665-816,873-895,900,938-1005,1009,1016-1093
+web/src/components/__tests__/MetricsExplorer.test.tsx
+  s_9216308bd7d0fb::t_f3a5e27a3f72f6 19,27-31,44-52,122-152,610-728
+web/src/components/metricsExplorerDiagnostics.ts
+  s_9216308bd7d0fb::t_183cb06af166b7 1-533
+web/src/components/metricsExplorerDiagnostics.test.ts
+  s_9216308bd7d0fb::t_d5e29e944427fe 1-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7588a4477fa1c303def063e5e3847c8a2b01fcb3",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
