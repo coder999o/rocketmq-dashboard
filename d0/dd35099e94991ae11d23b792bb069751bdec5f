@@ -1,0 +1,54 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressService.java
+  s_9216308bd7d0fb::t_29c6d88e913ed3 96-98
+  s_9216308bd7d0fb::t_2e9dcdb8d1c277 23
+  s_9216308bd7d0fb::t_2d5d7122e5b481 20-22,275-276,288,308,352
+  s_9216308bd7d0fb::t_b2b48b62a09e21 87,90-93,102-108,113,116-117,124,270,274,345-351,353-356
+  s_9216308bd7d0fb::t_0e078bb8978a89 94-95
+  s_9216308bd7d0fb::t_76f1673a90d49d 357
+server/src/test/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressServiceTest.java
+  s_9216308bd7d0fb::t_b54b483e088231 20,42,56-58,64-65,87-88,135-147,219-220
+web/src/pages/ops/audit.tsx
+  s_9216308bd7d0fb::t_48db18ceab402b 373,388,422
+  s_9216308bd7d0fb::t_efe8e9183598c7 204-251
+  s_9216308bd7d0fb::t_996fdfcb4b4a03 32-33,52-58
+  s_9216308bd7d0fb::t_ac23bc4d542861 296,301,304,318-322,328,335
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/MetadataService.java
+  s_9216308bd7d0fb::t_232c08764edc13 108-109,112,120-121,124,136-137,275-276,279,294,305-306,319-320,397-401
+  s_9216308bd7d0fb::t_538cf3febf67fa 22
+  s_9216308bd7d0fb::t_e0e073759815be 110,122,277,381-383,389-394
+  s_9216308bd7d0fb::t_99f8ef10a6bb72 53,113,125,135,280,293,304,318,322,372-380,384-388,395-396,402-403,405-409
+  s_9216308bd7d0fb::t_de95c3d3e0b9d5 19-21,111,123,138-139,278,307-308,321,404
+server/src/main/java/org/apache/rocketmq/studio/audit/OperationAuditConstants.java
+  s_9216308bd7d0fb::t_ca37676953c0e7 1-60
+web/src/mock/audit.ts
+  s_9216308bd7d0fb::t_5001163792ac61 238-321
+web/src/pages/ops/auditPresentation.ts
+  s_9216308bd7d0fb::t_2a2ee8cff0dd79 1-236
+  s_9216308bd7d0fb::t_f804b10458e896 237-262
+web/src/pages/ops/__tests__/AuditPage.test.tsx
+  s_9216308bd7d0fb::t_b93497304db31a 275
+  s_9216308bd7d0fb::t_319cd19ac44302 72-73,148-177,185,187,190,242
+  s_9216308bd7d0fb::t_b9bd35e12f4a5c 251,263
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/MetadataServiceTest.java
+  s_9216308bd7d0fb::t_4b358e2aedecc6 20,41,62,68-70,169-171,173-190,208,212,214-217,219,221,223,424,426-427,429,431-432,442
+  s_9216308bd7d0fb::t_a12efc12c26388 63-64,78,80,168,172,191-207,209-211,213,218,220,222,224,317,425,428,430,433-441
+  s_9216308bd7d0fb::t_122c4384fe1aea 443
+web/src/pages/ops/__tests__/auditPresentation.test.ts
+  s_9216308bd7d0fb::t_564a390c90f2de 1-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d0dd35099e94991ae11d23b792bb069751bdec5f",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
