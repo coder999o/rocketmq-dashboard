@@ -1,0 +1,60 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/config/BrokerConfigDiffVO.java
+  s_9216308bd7d0fb::t_43ac8a0bb47641 1-72
+web/src/pages/cluster/__tests__/ClusterPage.test.tsx
+  s_9216308bd7d0fb::t_8ff6c5aeacec0a 30
+  s_9216308bd7d0fb::t_cf524b5eef398a 265-277
+  s_9216308bd7d0fb::t_fdf3ea8553a6dd 112-120
+  s_9216308bd7d0fb::t_2dc34464e91492 554-624,626-631
+  s_9216308bd7d0fb::t_d3c5ec27deca16 196,385,625
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/BrokerConfigDiffService.java
+  s_9216308bd7d0fb::t_7f6662ffa27e7b 1-188
+web/src/pages/cluster/index.tsx
+  s_9216308bd7d0fb::t_6a296b57d2b6d0 99,115-116
+  s_9216308bd7d0fb::t_663e9a1a907eac 1178,1181-1183,1185-1192
+  s_9216308bd7d0fb::t_0083be3a4f5ae3 1184,1196,1205
+  s_9216308bd7d0fb::t_d49b99cab2e61f 1800
+  s_9216308bd7d0fb::t_cc84248514a394 909-1056
+  s_9216308bd7d0fb::t_094d1c9523c8ec 152-162
+  s_9216308bd7d0fb::t_2ceaa350b14f05 56-57,72
+  s_9216308bd7d0fb::t_90964103c640a8 353-376
+web/src/api/cluster.ts
+  s_9216308bd7d0fb::t_6425c76dc5c1db 125-155,250-253,256
+  s_9216308bd7d0fb::t_aa98c5c2a46762 254-255
+  s_9216308bd7d0fb::t_4705fa37de997e 257
+web/src/services/clusterService.ts
+  s_9216308bd7d0fb::t_42f5539c54f4d3 4,140-156,158-190
+  s_9216308bd7d0fb::t_75825d3b9c7d0d 157
+  s_9216308bd7d0fb::t_f8bf38d7781cc0 191-192
+web/src/api/cluster.test.ts
+  s_9216308bd7d0fb::t_05b8d432283ced 26,240-274
+  s_9216308bd7d0fb::t_691b18019e403d 275-276
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterControllerTest.java
+  s_9216308bd7d0fb::t_9f68ba13220bd7 268-323
+  s_9216308bd7d0fb::t_7058c10a11b09d 19,71-72
+  s_9216308bd7d0fb::t_25f90bfac3c898 73
+  s_9216308bd7d0fb::t_2444b9e375a4f7 267
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/BrokerConfigDiffServiceTest.java
+  s_9216308bd7d0fb::t_c2f063816be52b 72
+  s_9216308bd7d0fb::t_f57dab3041a475 1-71,73-243
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterController.java
+  s_9216308bd7d0fb::t_d566c0da475b2e 19,46,81-85
+  s_9216308bd7d0fb::t_3d010c1473f30e 86-87
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_0e2d73f911442c 1346-1372,1379-1380
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "34da147dfde9bb5d092b269d91c4798b0e6f20c2",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
