@@ -1,0 +1,49 @@
+web/src/services/topicService.ts
+  s_9216308bd7d0fb::t_f529f9cebfdc8a 19-24
+web/src/pages/instance/__tests__/TopicPage.test.tsx
+  s_9216308bd7d0fb::t_d385df985a3265 24,345-396
+  s_9216308bd7d0fb::t_a4e72357b4f50c 397-399
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/TopicControllerTest.java
+  s_9216308bd7d0fb::t_15c6a2d4604852 21,96-111,116-122
+web/src/api/metadata.ts
+  s_9216308bd7d0fb::t_cf62e08746deb3 36-39,43-46
+web/src/services/topicService.test.ts
+  s_9216308bd7d0fb::t_c17697c3d4924c 49-50,54-55
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/BrokerRouteVO.java
+  s_9216308bd7d0fb::t_656c6203384343 25-27,35-38,42-45
+web/src/utils/topicRouteDiagnostics.test.ts
+  s_9216308bd7d0fb::t_81799a5466ff9c 1-181
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQMetadataProviderTest.java
+  s_9216308bd7d0fb::t_24f157d429349d 284-290,292,294-319,321-323
+  s_9216308bd7d0fb::t_037ebfcf3ddc90 291,293,320
+  s_9216308bd7d0fb::t_df23651bd8e70a 283
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQMetadataProvider.java
+  s_9216308bd7d0fb::t_c8a504310a2599 69,421-423,427-431,434-438,449-473
+  s_9216308bd7d0fb::t_606906933f0cb8 474
+web/src/pages/instance/topic.tsx
+  s_9216308bd7d0fb::t_42bbb558ca377e 43,58-60,90-95,303-317
+  s_9216308bd7d0fb::t_7f14140c058555 876-1023
+  s_9216308bd7d0fb::t_c44f41975cb37d 718-740,742-805,810-825
+  s_9216308bd7d0fb::t_1c9e03eef8ca34 318,1024-1027,1526,1543
+web/src/mock/topics.ts
+  s_9216308bd7d0fb::t_b4dc867acfff3b 243-246,250-253,261-267,271-274,279-285,289-292
+web/src/utils/topicRouteDiagnostics.ts
+  s_9216308bd7d0fb::t_a2b714633d02ae 1-487,489-509
+  s_9216308bd7d0fb::t_4c9e26dd50d737 488
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "93169f1bfbc1ce228372afd5752307c921b948c9",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
