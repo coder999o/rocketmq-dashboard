@@ -1,0 +1,95 @@
+web/src/api/consumerGroups.test.ts
+  s_9216308bd7d0fb::t_5b461d2b23e147 135
+  s_9216308bd7d0fb::t_fc978e58d3834f 29,122-134,136-167
+  s_9216308bd7d0fb::t_c6ea02a465fbb2 168-169
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ResetConsumerOffsetQueuePreviewVO.java
+  s_9216308bd7d0fb::t_ffbe7daa5772a3 1-42
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/MetadataService.java
+  s_9216308bd7d0fb::t_ffbe7daa5772a3 28,289-294
+  s_9216308bd7d0fb::t_ad6556b0ea02e0 295-296
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupController.java
+  s_9216308bd7d0fb::t_ffbe7daa5772a3 130-135
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImpl.java
+  s_9216308bd7d0fb::t_e9ece869914f64 707-708
+  s_9216308bd7d0fb::t_8752dd5d208674 717-719,833-834,837-838
+  s_9216308bd7d0fb::t_5b461d2b23e147 732,807
+  s_9216308bd7d0fb::t_e94add11133f87 29,42-43,63,65,81-84,672-706,710-716,720-723,725-730,733-806,808-832,835-836,839-875
+  s_9216308bd7d0fb::t_fd701f429e72db 709,724,731
+  s_9216308bd7d0fb::t_8e9b4b7ad62a37 876
+server/src/test/java/org/apache/rocketmq/studio/provider/tencent/TencentInstanceProviderTest.java
+  s_9216308bd7d0fb::t_d459fb3d699087 54,593-614
+  s_9216308bd7d0fb::t_3dfc1ed0f0d97e 615
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImplTest.java
+  s_9216308bd7d0fb::t_5b461d2b23e147 276,312,336
+  s_9216308bd7d0fb::t_af2c1e404b4b05 28
+  s_9216308bd7d0fb::t_facafb365eccad 27
+  s_9216308bd7d0fb::t_b68859d416ef04 25,41-42,70-71,254-275,277-311,313-335,337-354,844-849
+  s_9216308bd7d0fb::t_ea5b2b7f5041d5 850
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/ApacheInstanceProvider.java
+  s_9216308bd7d0fb::t_ffbe7daa5772a3 24,152-155
+  s_9216308bd7d0fb::t_cc63ce01836e63 156-157
+web/src/services/consumerService.ts
+  s_9216308bd7d0fb::t_e3fa5b4a464a6b 12-13,49-56,243-253,257-268,270-288,293-331
+  s_9216308bd7d0fb::t_5b461d2b23e147 254-256,269,289-292
+  s_9216308bd7d0fb::t_e8df6fcbc82404 332
+web/src/api/metadata.ts
+  s_9216308bd7d0fb::t_e3fa5b4a464a6b 311-332,334-351
+  s_9216308bd7d0fb::t_5b461d2b23e147 333
+  s_9216308bd7d0fb::t_84edb78b72cb82 352
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/MetadataServiceTest.java
+  s_9216308bd7d0fb::t_1750d93168dbf3 24,357-364,366-389
+  s_9216308bd7d0fb::t_5b461d2b23e147 365
+  s_9216308bd7d0fb::t_57b6aac8487bcf 390
+web/src/pages/instance/__tests__/ConsumerPage.test.tsx
+  s_9216308bd7d0fb::t_05331d78c86c2d 18-19,23,260-263
+  s_9216308bd7d0fb::t_7d7e21a2370ec6 612
+  s_9216308bd7d0fb::t_e1df6fee7e53b0 50,72,112
+  s_9216308bd7d0fb::t_5b461d2b23e147 188,569
+  s_9216308bd7d0fb::t_c37f6844bc5b32 113,116-118
+  s_9216308bd7d0fb::t_824f4ce5f6a910 40,182-187,189-214,264,480,505-520,536-568,570-611,613-615
+  s_9216308bd7d0fb::t_471214d5fec150 265
+  s_9216308bd7d0fb::t_9c145b03df92b3 616
+server/src/test/java/org/apache/rocketmq/studio/provider/alibaba/AliyunInstanceProviderTest.java
+  s_9216308bd7d0fb::t_d459fb3d699087 47,262-290
+  s_9216308bd7d0fb::t_0020f879828b13 291-292
+server/src/test/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupControllerTest.java
+  s_9216308bd7d0fb::t_5b461d2b23e147 297,317
+  s_9216308bd7d0fb::t_1750d93168dbf3 269-296,298-316,318-326
+  s_9216308bd7d0fb::t_61fb0748b87bf6 268
+web/src/pages/instance/consumer.tsx
+  s_9216308bd7d0fb::t_95a01ab16f4137 75-76,88,207-231,235-250,297-300,335-339,547-556,603-637,639-668,1192-1240,1242-1248,1250-1296,2187,2189,2192,2194-2195,2199,2203-2209,2231-2234,2251-2254,2265-2271,2274-2280,2283-2289,2292-2298,2301-2307,2310-2316,2321-2352,2356-2360,2362-2384,2389
+  s_9216308bd7d0fb::t_c0cb6c05358f35 429-430,450
+  s_9216308bd7d0fb::t_5b461d2b23e147 232-234,557,638,1241,1249,2193,2353-2355,2361
+  s_9216308bd7d0fb::t_d5c9c1cff5e875 939
+  s_9216308bd7d0fb::t_91098c65251084 669
+  s_9216308bd7d0fb::t_384fb0ceaf5804 2385-2388
+server/src/main/java/org/apache/rocketmq/studio/provider/InstanceProvider.java
+  s_9216308bd7d0fb::t_ffbe7daa5772a3 25,111-112,154
+  s_9216308bd7d0fb::t_5b461d2b23e147 26,38,113-153
+  s_9216308bd7d0fb::t_330e4775e9949e 155
+web/src/services/consumerService.test.ts
+  s_9216308bd7d0fb::t_133da70426248b 28,37,192-232,234-251
+  s_9216308bd7d0fb::t_5b461d2b23e147 233
+  s_9216308bd7d0fb::t_37e04049d9c79d 252
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/AdminClient.java
+  s_9216308bd7d0fb::t_ffbe7daa5772a3 24,39
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ResetConsumerOffsetPreviewVO.java
+  s_9216308bd7d0fb::t_5b461d2b23e147 36
+  s_9216308bd7d0fb::t_ffbe7daa5772a3 1-35,37-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e8fa9eb47c43f3ba5e4c8b42e2d56798ab59c3a5",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
