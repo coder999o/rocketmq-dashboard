@@ -1,0 +1,36 @@
+web/src/utils/consumerGroupDiagnostics.ts
+  s_9216308bd7d0fb::t_c1b73fca85c07e 1-423
+web/src/pages/instance/__tests__/ConsumerPage.test.tsx
+  s_9216308bd7d0fb::t_b2e0a40c2e6937 513
+  s_9216308bd7d0fb::t_639d8a77c2e7d2 449-508,510-511,514-515
+  s_9216308bd7d0fb::t_3422ca038e714b 509
+  s_9216308bd7d0fb::t_e51cbc143c9e31 512
+web/src/pages/instance/consumer.tsx
+  s_9216308bd7d0fb::t_096d078b8144f3 501-504
+  s_9216308bd7d0fb::t_b1630c5029a29a 1131-1148,1150,1152-1164
+  s_9216308bd7d0fb::t_69cd8a8ae55698 599-605
+  s_9216308bd7d0fb::t_d123a78098bd93 1149,1151
+  s_9216308bd7d0fb::t_6b17e5b530addb 1783-1933
+  s_9216308bd7d0fb::t_1bffa36b1048f5 1557
+  s_9216308bd7d0fb::t_7c5671a136f1cc 561-564
+  s_9216308bd7d0fb::t_379d88855d2d78 44,107-111,197-213
+  s_9216308bd7d0fb::t_cb1e973cd43af9 214
+web/src/utils/consumerGroupDiagnostics.test.ts
+  s_9216308bd7d0fb::t_edcee779fa5e85 1-157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "a3fda610fc50bb086df2f44585abd3c77e061994",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
