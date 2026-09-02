@@ -1,0 +1,36 @@
+web/src/pages/instance/message.tsx
+  s_9216308bd7d0fb::t_bc87bda75e995c 18,408,921-934,936-940
+  s_9216308bd7d0fb::t_a325197f2edfbe 212
+  s_9216308bd7d0fb::t_cb27238b9b10da 205-211,244-247,262-266,278,310
+  s_9216308bd7d0fb::t_0f004175c4eade 36-37,75-79,146-152,199-204,213-243,248-261,267-277,279-309
+  s_9216308bd7d0fb::t_d8a68838190852 311
+web/src/utils/messageTraceDiagnostics.test.ts
+  s_9216308bd7d0fb::t_2f40f3dda481cf 1-204
+web/src/pages/instance/__tests__/MessagePage.test.tsx
+  s_9216308bd7d0fb::t_d02f04d8aafd88 28,30,106,108
+web/src/utils/messageTraceDiagnostics.ts
+  s_9216308bd7d0fb::t_dcb83aac10306b 1-576
+  s_9216308bd7d0fb::t_34e4d5c433dd33 577
+web/src/pages/instance/__tests__/MessagePageAsyncState.test.tsx
+  s_9216308bd7d0fb::t_8c651b27427f25 343,455,485,491
+  s_9216308bd7d0fb::t_46461685d9da18 345
+  s_9216308bd7d0fb::t_78fa9526a0c9c8 291-342,344,348-349
+  s_9216308bd7d0fb::t_9955f3cd585568 346
+  s_9216308bd7d0fb::t_60133403cbf44f 347
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "fc1b3f8dd65a916153122c7077c68402beaf9025",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
