@@ -1,0 +1,34 @@
+web/src/pages/instance/__tests__/AclPage.test.tsx
+  h_852ebd835e0ec3 623,720-721,806-840
+  h_852ebd835e0ec3 841-842
+web/src/pages/instance/acl.tsx
+  h_852ebd835e0ec3 20,37-38,72,863-874,961-1022,1025-1062,1345-1418
+  h_852ebd835e0ec3 1023-1024,1063-1064,1419
+web/src/i18n/translations.ts
+  h_852ebd835e0ec3 1020-1037
+web/src/utils/aclRiskDiagnostics.ts
+  s_9216308bd7d0fb::t_01272a2a9cbd5a 1-557
+web/src/utils/aclRiskDiagnostics.test.ts
+  s_9216308bd7d0fb::t_b9d9ed8faab0a9 1-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "9a4f64297f04773f47ddca27b9a4281cb095daab",
+  "prompts": {},
+  "humans": {
+    "h_852ebd835e0ec3": {
+      "author": "coder999o <soft_99@126.com>"
+    }
+  },
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
