@@ -1,0 +1,37 @@
+web/src/utils/alertTemplatePreview.ts
+  s_9216308bd7d0fb::t_a49a1483909842 1-42,44-303
+  s_9216308bd7d0fb::t_79eef6137dcdc0 43
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_95f739c2de0124 274-322
+  s_9216308bd7d0fb::t_a978e5bac62c36 323-325
+web/src/pages/ops/alerts.tsx
+  s_9216308bd7d0fb::t_3094536afae810 18,21,72-77,89,137-145
+  s_9216308bd7d0fb::t_f2aeec25d1e429 286
+  s_9216308bd7d0fb::t_d74693faaace56 146-149,178-186,218-285,287-331
+  s_9216308bd7d0fb::t_5a4f925dc37a72 31
+  s_9216308bd7d0fb::t_c406e1f549822b 856-860,1358-1363,1394-1465
+  s_9216308bd7d0fb::t_4a7e4e338cf11a 1466-1467
+web/src/utils/alertTemplatePreview.test.ts
+  s_9216308bd7d0fb::t_d477a60af60ad7 1-174
+  s_9216308bd7d0fb::t_78a540ba827c4e 175-180
+web/src/pages/ops/__tests__/AlertsPage.test.tsx
+  s_9216308bd7d0fb::t_d6eed100287fd5 19,482-513,516-523
+  s_9216308bd7d0fb::t_ed6888b8427972 514-515
+  s_9216308bd7d0fb::t_0f6025807c8b19 524
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "db5d2ae4ef73f29da022ab69f146ceea81783887",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
