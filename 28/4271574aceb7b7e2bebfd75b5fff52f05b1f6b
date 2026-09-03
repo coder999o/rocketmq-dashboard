@@ -1,0 +1,35 @@
+web/src/pages/cluster/__tests__/ClientsPage.test.tsx
+  s_9216308bd7d0fb::t_12466ba25a3448 201-245
+  s_9216308bd7d0fb::t_0c65a5864386bd 246-247,497
+web/src/utils/clientConnectionDiagnostics.test.ts
+  s_9216308bd7d0fb::t_8abae26b9c72a8 1-19,21-74,76-160,162-195,197-208
+  s_9216308bd7d0fb::t_77a50f8ec28b9b 20
+  s_9216308bd7d0fb::t_e7142902228fbf 196
+  s_9216308bd7d0fb::t_fc5457e3050d22 75,161
+web/src/pages/cluster/clients.tsx
+  s_9216308bd7d0fb::t_439d9b60612dc2 538-543,830-831
+  s_9216308bd7d0fb::t_31e4d5b9f57f8d 27,49-53,70-93,298-339,509-537,544-652,801-829,832-883
+  s_9216308bd7d0fb::t_905195df88687b 884
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_61b8964e90e2b7 251-264,267-269
+  s_9216308bd7d0fb::t_53b803f8270907 265-266
+web/src/utils/clientConnectionDiagnostics.ts
+  s_9216308bd7d0fb::t_ab481e8464adce 21-22,286-289,419-424,520
+  s_9216308bd7d0fb::t_b8bab028af416b 1-20,23-285,290-418,425-519,521-607
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "284271574aceb7b7e2bebfd75b5fff52f05b1f6b",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
