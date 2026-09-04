@@ -1,0 +1,31 @@
+web/src/pages/settings/DataSourceTab.tsx
+  s_9216308bd7d0fb::t_4f3bb6a4be8c1f 20,22,54-62,107-125,166,169-170,339-472,608-665,690-740
+  s_9216308bd7d0fb::t_e7a798136b516a 741-743
+web/src/utils/dataSourceCoverage.ts
+  s_9216308bd7d0fb::t_bdc5cd1aea9361 1-422
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_dec3a1bc31d5ed 1202-1241
+  s_9216308bd7d0fb::t_d95b9e71babc02 1242-1244
+web/src/pages/settings/__tests__/DataSourceTab.test.tsx
+  s_9216308bd7d0fb::t_da0288d3e77688 23,34,57-60,79-105,145,322-348,350-357
+  s_9216308bd7d0fb::t_67d67692e996bf 349
+  s_9216308bd7d0fb::t_12720f640c1e7c 358-359
+web/src/utils/dataSourceCoverage.test.ts
+  s_9216308bd7d0fb::t_869b8ab59ecbe4 1-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e4a7a20ca53283864ccfa8725d7d2613de8e3b2f",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
