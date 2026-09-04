@@ -1,0 +1,819 @@
+deploy/deploy.sh
+  s_9216308bd7d0fb::t_2fe07acaf03286 56,59,68-71
+deploy/mysql/upgrade-settings-singleton-key.sql
+  s_9216308bd7d0fb::t_abda2ccd235209 1-42
+deploy/nginx.conf
+  s_9216308bd7d0fb::t_f62d49ab54e28f 12-24
+docs/api-spec.md
+  s_9216308bd7d0fb::t_fe584f7b52d459 107-126,1763,1769-1770,1777,1780-1807,1809,1826,1844,1858,2222
+docs/studio-native-alerting-design.md
+  s_9216308bd7d0fb::t_e2345951ba2a24 242-245,253,259-263,276-277
+server/Dockerfile
+  s_9216308bd7d0fb::t_bd68a8ca601a25 2-4
+server/README.md
+  s_9216308bd7d0fb::t_3905374cc37171 4,11-20,41-42,53,72-74,98-104,112-113,119
+server/scripts/gen_alert_rule_yaml.py
+  s_9216308bd7d0fb::t_4fae3e75eeb310 61
+server/scripts/gen_grafana_dashboards.py
+  s_9216308bd7d0fb::t_0cbd5232ee3ed1 14,66-67,135-138,140-161,301-314,316-317
+server/scripts/native-alert-e2e-test.sh
+  s_9216308bd7d0fb::t_74d7853b1f0322 1-83
+server/scripts/native-alert-e2e.sh
+  s_9216308bd7d0fb::t_8376b51d38e108 22,45,49-51,54-67,70-75,82-86,89-90,210-214
+server/scripts/test_gen_grafana_dashboards.py
+  s_9216308bd7d0fb::t_bd69df1757252b 1-72
+server/src/main/java/org/apache/rocketmq/studio/StudioApplication.java
+  s_9216308bd7d0fb::t_60addad60e164d 22,27
+server/src/main/java/org/apache/rocketmq/studio/audit/OperationAuditConstants.java
+  s_9216308bd7d0fb::t_f991f8f24ad768 1-61
+server/src/main/java/org/apache/rocketmq/studio/audit/OperationAuditService.java
+  s_9216308bd7d0fb::t_b9325ac47d229b 51-59
+server/src/main/java/org/apache/rocketmq/studio/auth/AuthCookie.java
+  s_9216308bd7d0fb::t_162e50b3bbabbe 39-42,53-59
+server/src/main/java/org/apache/rocketmq/studio/auth/AuthInterceptor.java
+  s_9216308bd7d0fb::t_67dd52e76583e4 71-72,77-80,82
+server/src/main/java/org/apache/rocketmq/studio/auth/AuthService.java
+  s_9216308bd7d0fb::t_bf48609f788e6b 216-218
+server/src/main/java/org/apache/rocketmq/studio/auth/LoginRateLimiter.java
+  s_9216308bd7d0fb::t_e6da326ac23082 19-20,23,28-31,41,43-44,47-50,61-73,76-78,82,84,86-89,92-101,108-114,116-153,155-226,232-233,236-237,240-249,256-258,260-275
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/BrokerConfigDiffService.java
+  s_9216308bd7d0fb::t_5b16f8a5ce87b9 1-188
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterController.java
+  s_9216308bd7d0fb::t_9c8963bb97181f 19,46,81-87
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/RegistryProbeRunner.java
+  s_9216308bd7d0fb::t_1ec6c39842aa44 77,79-80
+server/src/main/java/org/apache/rocketmq/studio/cluster/config/BrokerConfigDiffVO.java
+  s_9216308bd7d0fb::t_1f21c43c88660a 1-72
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/MybatisPlusK8sCertRepository.java
+  s_9216308bd7d0fb::t_1838b224047508 69
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/AlertCollectionLease.java
+  s_9216308bd7d0fb::t_b661141fffcd7c 20,22-28
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/AlertingProperties.java
+  s_9216308bd7d0fb::t_9d0f56c028785e 35-36,39-50
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/BusinessMetricsCollector.java
+  s_9216308bd7d0fb::t_49957ecf34101f 22,29-32
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/ClusterMetricsCollector.java
+  s_9216308bd7d0fb::t_90620d602b8dd2 22,29-32
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/CollectorScheduler.java
+  s_9216308bd7d0fb::t_cd4c2fd9b945ce 23,30-32,35-38,40,42-44,48,51,66,74,81-89,98,107-122,124-174,176-209,215,217-222,226-262,272,274-276,278-281,288,290-292,294-297,304-317,319-329,335,349-437
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MetricCollectionScope.java
+  s_9216308bd7d0fb::t_74853d9fdd474c 1-41
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MetricProfileService.java
+  s_9216308bd7d0fb::t_d17811927cdef5 19,23,27,30-31,33,36-44,113-114,116-125
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MetricsService.java
+  s_9216308bd7d0fb::t_26814fb28f0003 141-143,146-147,150
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MybatisPlusAlertCollectionLease.java
+  s_9216308bd7d0fb::t_1d1fdc86f65500 64-72
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MybatisPlusMetricSnapshotRepository.java
+  s_9216308bd7d0fb::t_2c0296da8e7774 27,46,65
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/PrometheusProperties.java
+  s_9216308bd7d0fb::t_70684a800df405 37-38
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/SemanticMetric.java
+  s_9216308bd7d0fb::t_e6fe48a2fdd5cd 26-27
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/collectors/ApacheRocketMqBusinessMetricsCollector.java
+  s_9216308bd7d0fb::t_553c9131dcc446 37,57-61
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/collectors/ApacheRocketMqClusterMetricsCollector.java
+  s_9216308bd7d0fb::t_f26f4d3097d8be 39,61-66
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/collectors/ApacheRocketMqDlqMetricsCollector.java
+  s_9216308bd7d0fb::t_1aa7f0c8e8a39a 34,51-55
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/collectors/ApacheRocketMqProxyMetricsCollector.java
+  s_9216308bd7d0fb::t_3aac548762ea75 38,58-62
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/collectors/CloudRocketMqBusinessMetricsCollector.java
+  s_9216308bd7d0fb::t_7bf8f00ff51ac2 37,56-60
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/collectors/CloudRocketMqClusterMetricsCollector.java
+  s_9216308bd7d0fb::t_32a8d55e86ef29 34,53-57
+server/src/main/java/org/apache/rocketmq/studio/cluster/nameserver/NameServerConfigDiffService.java
+  s_9216308bd7d0fb::t_073634f6c13b0a 37,196-197,200-201,206-217
+server/src/main/java/org/apache/rocketmq/studio/cluster/nameserver/NameserverRegistryService.java
+  s_9216308bd7d0fb::t_f016fd09bb51aa 60-64
+server/src/main/java/org/apache/rocketmq/studio/cluster/nameserver/NamesrvAddrParser.java
+  s_9216308bd7d0fb::t_abd16283887d99 20,24,35,45,68,76,91
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressService.java
+  s_9216308bd7d0fb::t_15bd1da7992a2a 20-24,61,89,92-100,104-110,115,118-119,126,272,276-278,285-286,292,312,315-316,320-321,327-328,349-353,360-377
+server/src/main/java/org/apache/rocketmq/studio/common/domain/PageResult.java
+  s_9216308bd7d0fb::t_5b4c232e7eaa05 20,35-37
+server/src/main/java/org/apache/rocketmq/studio/common/exception/GlobalExceptionHandler.java
+  s_9216308bd7d0fb::t_6c7420a5730327 26,149-160
+server/src/main/java/org/apache/rocketmq/studio/common/util/CsvUtil.java
+  s_9216308bd7d0fb::t_f4f8a687fc43e3 1-48
+server/src/main/java/org/apache/rocketmq/studio/common/util/SystemGroupFilter.java
+  s_9216308bd7d0fb::t_837b2aee6d6207 19-20,44,50
+server/src/main/java/org/apache/rocketmq/studio/instance/CloudImportResultVO.java
+  s_9216308bd7d0fb::t_2206678bbd1f66 39-50
+server/src/main/java/org/apache/rocketmq/studio/instance/DuplicateInstanceNameException.java
+  s_9216308bd7d0fb::t_db3c474e9c1636 1-26
+server/src/main/java/org/apache/rocketmq/studio/instance/InstanceResourceCountRunner.java
+  s_9216308bd7d0fb::t_8b41aff287fe74 1-251
+server/src/main/java/org/apache/rocketmq/studio/instance/InstanceService.java
+  s_9216308bd7d0fb::t_60be9b89470a65 42,49-50,54,72,74-76,78-79,82-83,121-139,141,143-145,148-157,164,166-190,192-193,209-217,226-228,242-253,255-271,274,277-306,308-332,334-337,339,341-412,421,658-661,667-676,704-723
+server/src/main/java/org/apache/rocketmq/studio/instance/acl/MybatisPlusAclRepository.java
+  s_9216308bd7d0fb::t_e87b54a72a1137 30,41,110,241-249
+server/src/main/java/org/apache/rocketmq/studio/instance/dlq/DLQResendSelectedRequestDTO.java
+  s_9216308bd7d0fb::t_3e3707ebf9efdb 42
+server/src/main/java/org/apache/rocketmq/studio/instance/dlq/DLQService.java
+  s_9216308bd7d0fb::t_e94d3005cf4301 59-65,71-74,80-84,90,97-98,100-102,108-109,113-117,128,132-150
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupController.java
+  s_9216308bd7d0fb::t_915ee0eae60d05 33-34,91-107,149-166
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ImportConsumerGroupsDTO.java
+  s_9216308bd7d0fb::t_21b3cd3bc05635 1-37
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ImportConsumerGroupsResultVO.java
+  s_9216308bd7d0fb::t_02362d027e1b08 1-52
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ResetConsumerOffsetPreviewVO.java
+  s_9216308bd7d0fb::t_c067211ff27f7d 1-46
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ResetConsumerOffsetQueuePreviewVO.java
+  s_9216308bd7d0fb::t_97ed09bd5d95aa 1-42
+server/src/main/java/org/apache/rocketmq/studio/instance/message/MessageProvider.java
+  s_9216308bd7d0fb::t_8c83925ef08d87 27-32
+server/src/main/java/org/apache/rocketmq/studio/instance/message/MessageQueryResult.java
+  s_9216308bd7d0fb::t_6a39d661027a0b 1-43
+server/src/main/java/org/apache/rocketmq/studio/instance/message/MessageService.java
+  s_9216308bd7d0fb::t_8b9882a8780178 45-46,49,54-58,60,70-75,77,84-85,96,139-140,145-146,148-150,158-160,164-165,168,171,173,179-180,185,191-194
+server/src/main/java/org/apache/rocketmq/studio/instance/message/QueryHistoryController.java
+  s_9216308bd7d0fb::t_e78d612e109239 14,20-21,58-62
+server/src/main/java/org/apache/rocketmq/studio/instance/message/QueryHistoryProperties.java
+  s_9216308bd7d0fb::t_e57a9d053a54fb 34-43
+server/src/main/java/org/apache/rocketmq/studio/instance/message/QueryHistorySchemaMigration.java
+  s_9216308bd7d0fb::t_c67d3cca76feef 1-118
+server/src/main/java/org/apache/rocketmq/studio/instance/message/QueryHistoryService.java
+  s_9216308bd7d0fb::t_4771973ec1ba06 20,22-23,38,40-42,48-52,57,62-64,70-71,76,81,91,101-157,161,170-175,208,261,270,277-315,335,352-355
+server/src/main/java/org/apache/rocketmq/studio/instance/message/TraceQueryHistoryVO.java
+  s_9216308bd7d0fb::t_51ae8762cdacd5 20
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/BrokerRouteVO.java
+  s_9216308bd7d0fb::t_df1f741cf29fa4 25-27,35-38,42-45
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/ImportTopicsDTO.java
+  s_9216308bd7d0fb::t_f76011fc4519b8 1-37
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/ImportTopicsResultVO.java
+  s_9216308bd7d0fb::t_efe1c84a66ff6c 1-52
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/MetadataService.java
+  s_9216308bd7d0fb::t_41ac6ad79332e5 19-22,27,29-32,37,46-47,49-50,63,117-119,121-123,130-132,142-146,282-285,298-299,309-313,321-328,331-337,381-547,554-620
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/TopicController.java
+  s_9216308bd7d0fb::t_bb01a4beb709f7 32-33,64-78,154-164
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/ClaudeCodeAgentProvider.java
+  s_9216308bd7d0fb::t_f67173c26acb84 55-56,184-188
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/CliAgentProvider.java
+  s_9216308bd7d0fb::t_7d4bc46f48e798 64,68,70-72,75-77,85-88
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/LlmConfigService.java
+  s_9216308bd7d0fb::t_6cf4985ff8bc1d 95
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/OpenAiCompatibleLlmClient.java
+  s_9216308bd7d0fb::t_2bee0a62042fb9 59-62,66,78,308-310
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/OpenAiCompatibleLlmGateway.java
+  s_9216308bd7d0fb::t_0f86fabd3fa725 50-51,99-100
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/QoderAgentProvider.java
+  s_9216308bd7d0fb::t_9ae795b4824a4c 53-56,58
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/AlertRuleListToolHandler.java
+  s_9216308bd7d0fb::t_b12beae4c6e94a 22,46-48,50
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/ConsumerGroupListToolHandler.java
+  s_9216308bd7d0fb::t_5641d85976b668 21,46-48,50
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/ToolListPagination.java
+  s_9216308bd7d0fb::t_e679207e54d45b 1-61
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/TopicListToolHandler.java
+  s_9216308bd7d0fb::t_5fb7283411f5f0 21,46-48,50
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/ActiveAlertState.java
+  s_9216308bd7d0fb::t_3443a68463be1d 1-32
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertFingerprint.java
+  s_9216308bd7d0fb::t_6198825b920bf0 30-32,44-52
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertNotificationSuppressionService.java
+  s_9216308bd7d0fb::t_ad37837b14c9b8 20,27,37,47-67,74-85
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertNotificationTemplate.java
+  s_9216308bd7d0fb::t_7ee7bda10e099f 12-13,22,28-38,40-41
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertRuleDuration.java
+  s_9216308bd7d0fb::t_48182c42047ca5 27-42,44,47-48
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertRuleRequestDTO.java
+  s_9216308bd7d0fb::t_6c852d6be6c6cb 29-30,39,67,71
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertRuleTransferDTO.java
+  s_9216308bd7d0fb::t_380b1878ac040c 28
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertRuleTransferService.java
+  s_9216308bd7d0fb::t_c62236e075d4d8 39-41
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertSchemaMigration.java
+  s_9216308bd7d0fb::t_b9d8af7599ed55 68-69,103-113,119-122,125,127-128,130-133,173-176
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertService.java
+  s_9216308bd7d0fb::t_7cd54461813ddf 49-50
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceController.java
+  s_9216308bd7d0fb::t_e0a17454b58f95 21,29,45-50
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceRecurrence.java
+  s_9216308bd7d0fb::t_056588ce9c48bd 17,19-22
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceRepository.java
+  s_9216308bd7d0fb::t_6b7b1102c325a1 19-21,29-32
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceSchedule.java
+  s_9216308bd7d0fb::t_376e117e18891c 1-93
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceService.java
+  s_9216308bd7d0fb::t_a75098af2214cd 22,26-27,29,32,34-35,40-41,49-53,64,70-71,76-77,107-121,124-126,132-185,205-208
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceVO.java
+  s_9216308bd7d0fb::t_e4bd3a23f6c2fd 26,40-43
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertStateMachine.java
+  s_9216308bd7d0fb::t_96bc4d4616b6c7 46-48
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertStateRepository.java
+  s_9216308bd7d0fb::t_36a300fb2d03d4 19-20,42-45
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/CreateAlertSilenceDTO.java
+  s_9216308bd7d0fb::t_f83484df5fc6c0 24,37-40
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/MybatisPlusAlertRepository.java
+  s_9216308bd7d0fb::t_1a1b057ea03ce0 198
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/MybatisPlusAlertSilenceRepository.java
+  s_9216308bd7d0fb::t_cac2cec30124c1 20-21,25,30,33,35,58-93,107-111,123-126,147-164
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/MybatisPlusAlertStateRepository.java
+  s_9216308bd7d0fb::t_d63d2846ab2ea7 20-21,23,25,27,30,36,39,45-46,48,96-124,142-175,201-211
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NativeAlertEvaluationService.java
+  s_9216308bd7d0fb::t_c5d99678abe29a 1-156
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NativeAlertMetricCatalogService.java
+  s_9216308bd7d0fb::t_78ace0abe4f795 71-76,80,82
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NativeAlertProcessor.java
+  s_9216308bd7d0fb::t_63190280924302 20,22-23,28,31,34,36,38,41,46,54-74,76,79,82-87,91-93,96-136,139-160,162-163,165-172,185-187
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NativeAlertRulePolicy.java
+  s_9216308bd7d0fb::t_d56b0fa16ed1c0 22,77-78,89-90
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NativeAlertRuleTestService.java
+  s_9216308bd7d0fb::t_1421ff91829194 20,35,43,49-58,60-69,83-101
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NotificationOutboxService.java
+  s_9216308bd7d0fb::t_0c91ef479c3ad9 14,17,40,46-51,66-69,79-82,88,94-95,97,104-111,118-126,134-146,180,244,267,280,289-291,294-299,302-334,336,339-341,343-347,351,362-367,369,371,374,376-390,397,516,519,529-537,545-643
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditController.java
+  s_9216308bd7d0fb::t_f071377ede7f08 59-71
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditRepository.java
+  s_9216308bd7d0fb::t_3383caab9059aa 30-33,36
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditService.java
+  s_9216308bd7d0fb::t_a5f0caa6d1d142 22,40-41,64-70,82,130,146-151,157,171-173
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditSummaryBucketVO.java
+  s_9216308bd7d0fb::t_eb56c1e317b139 1-31
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditSummaryVO.java
+  s_9216308bd7d0fb::t_69a4bc9c864ef6 1-40
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/MybatisPlusAuditRepository.java
+  s_9216308bd7d0fb::t_5be0ae49662f5d 29,33-34,42-50,52,70,81-97,110-233,249-256,260-284
+server/src/main/java/org/apache/rocketmq/studio/persistence/MybatisPlusSettingsRepository.java
+  s_9216308bd7d0fb::t_2aa3f650977a96 33,46-47,62,101-103,112,116-126
+server/src/main/java/org/apache/rocketmq/studio/persistence/entity/RmqAlertSilence.java
+  s_9216308bd7d0fb::t_2e61355f12e2b0 37-40
+server/src/main/java/org/apache/rocketmq/studio/persistence/entity/RmqMessageQuery.java
+  s_9216308bd7d0fb::t_804f7dedca9326 49-50
+server/src/main/java/org/apache/rocketmq/studio/persistence/entity/RmqSettings.java
+  s_9216308bd7d0fb::t_3a47f6f643ab91 34-35
+server/src/main/java/org/apache/rocketmq/studio/persistence/entity/RmqTraceQuery.java
+  s_9216308bd7d0fb::t_dafea41614c957 37-43
+server/src/main/java/org/apache/rocketmq/studio/persistence/mapper/RmqAlertCollectionLeaseMapper.java
+  s_9216308bd7d0fb::t_cb3a21f0dc75ad 32-36
+server/src/main/java/org/apache/rocketmq/studio/persistence/mapper/RmqAlertNotificationOutboxMapper.java
+  s_9216308bd7d0fb::t_ca612cc5c833e9 25-32,48-52
+server/src/main/java/org/apache/rocketmq/studio/provider/InstanceProvider.java
+  s_9216308bd7d0fb::t_567f6f68e50b10 25-26,31,39,112-156,162-171
+server/src/main/java/org/apache/rocketmq/studio/provider/alibaba/AliyunCatalogService.java
+  s_9216308bd7d0fb::t_dca78438867568 86-88,95,107-110,115
+server/src/main/java/org/apache/rocketmq/studio/provider/alibaba/AliyunConverters.java
+  s_9216308bd7d0fb::t_37a2c271acf8b4 195-198
+server/src/main/java/org/apache/rocketmq/studio/provider/alibaba/AliyunInstanceProvider.java
+  s_9216308bd7d0fb::t_77b3519050d047 304,322-323
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/AdminClient.java
+  s_9216308bd7d0fb::t_669cb7dd2092ca 24,39
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/ApacheInstanceProvider.java
+  s_9216308bd7d0fb::t_8c1ee966263a55 24,152-157
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/BrokerTopologyGuards.java
+  s_9216308bd7d0fb::t_3a4a5bd597698e 1-110
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/ProxyConsumerResolver.java
+  s_9216308bd7d0fb::t_fa7962999ae0a5 176-177
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImpl.java
+  s_9216308bd7d0fb::t_44c8ff8b1ac935 29,42-43,63,65,81-84,105-108,675-879
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQBrokerConfigService.java
+  s_9216308bd7d0fb::t_f9a492357d972c 119
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQClusterProvider.java
+  s_9216308bd7d0fb::t_ae64adb5937923 213-216,280-282
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQDLQProvider.java
+  s_9216308bd7d0fb::t_236177b5ffd0ab 30,38,63,183-185,250,259-261,265-282,315,562-597
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQDashboardProvider.java
+  s_9216308bd7d0fb::t_df8e870c2539a1 21,40-41,71,75-86,88-181,492,494,502-509
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQMessageProvider.java
+  s_9216308bd7d0fb::t_3eaaaf46b8bc00 113-116,122-125,129,132-133,140-142,163,521-524
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQMetadataProvider.java
+  s_9216308bd7d0fb::t_649251c1801489 69,421-423,427-431,434-438,449-474
+server/src/main/java/org/apache/rocketmq/studio/provider/credential/CloudCredentialSchemaMigration.java
+  s_9216308bd7d0fb::t_da522276c0137f 1-127
+server/src/main/java/org/apache/rocketmq/studio/provider/credential/CloudCredentialService.java
+  s_9216308bd7d0fb::t_84d7a0d643c9ca 30,134-139
+server/src/main/java/org/apache/rocketmq/studio/provider/credential/MybatisPlusCloudCredentialRepository.java
+  s_9216308bd7d0fb::t_febe4518102541 52-58,60-63,88
+server/src/main/java/org/apache/rocketmq/studio/provider/tencent/TencentAclService.java
+  s_9216308bd7d0fb::t_5aea5c3463ee5e 69-71,76,82,93-95,100,111,174-176,181,187,194-206
+server/src/main/java/org/apache/rocketmq/studio/provider/tencent/TencentCatalogService.java
+  s_9216308bd7d0fb::t_42122a3cc1a0fa 85,87,104,111-114
+server/src/main/java/org/apache/rocketmq/studio/provider/tencent/TencentInstanceProvider.java
+  s_9216308bd7d0fb::t_afa466ba45948d 62,111,281-284,418,421,441,560-565,572-574,589-590,631-634,636,957-958,962,970,972
+server/src/main/java/org/apache/rocketmq/studio/settings/SettingsService.java
+  s_9216308bd7d0fb::t_14b61bca3d6735 32-33,143-145,155-160,211-215,221,235,248,273
+server/src/main/resources/alerts/rocketmq-client-connection-drop.yaml
+  s_9216308bd7d0fb::t_0e4f2cdfce1f1e 9
+server/src/main/resources/application.yml
+  s_9216308bd7d0fb::t_36bbd29cb21fdc 14-24,99-100,104-110
+server/src/main/resources/db/schema.sql
+  s_9216308bd7d0fb::t_2176f30e197d25 60-74,90-93,166,170-172,183,190-191,208,218,220-221,316-317,360-363,368-370,389-391,432-433
+server/src/main/resources/grafana/rocketmq-broker.json
+  s_9216308bd7d0fb::t_6ddb9939f4d633 119,161,203
+server/src/main/resources/grafana/rocketmq-consumer.json
+  s_9216308bd7d0fb::t_36f52cb836a1ce 119-120,162
+server/src/main/resources/grafana/rocketmq-dlq.json
+  s_9216308bd7d0fb::t_da861a84d4925c 119
+server/src/main/resources/grafana/rocketmq-jvm.json
+  s_9216308bd7d0fb::t_c047789777c0f0 119,161,203
+server/src/main/resources/grafana/rocketmq-latency.json
+  s_9216308bd7d0fb::t_978f50029bd406 119
+server/src/main/resources/grafana/rocketmq-network.json
+  s_9216308bd7d0fb::t_85240cf53dc1ba 119-120,162
+server/src/main/resources/grafana/rocketmq-overview.json
+  s_9216308bd7d0fb::t_474e7863e560b7 119,161,203-204,246-247,289-290
+server/src/main/resources/grafana/rocketmq-producer.json
+  s_9216308bd7d0fb::t_7434c3ae5d041c 119-120,162
+server/src/main/resources/grafana/rocketmq-storage.json
+  s_9216308bd7d0fb::t_bd8dac8a37a7dc 83-84,118,160
+server/src/main/resources/grafana/rocketmq-threadpool.json
+  s_9216308bd7d0fb::t_ea2d7c8769db81 119,161
+server/src/main/resources/grafana/rocketmq-topic.json
+  s_9216308bd7d0fb::t_061e77807d491b 119,161
+server/src/main/resources/grafana/rocketmq-tps.json
+  s_9216308bd7d0fb::t_49809e221868f9 119,161
+server/src/main/resources/logback-spring.xml
+  s_9216308bd7d0fb::t_e1a06b1055fd60 14-16
+server/src/main/resources/tool-catalog/rmq-tools.yaml
+  s_9216308bd7d0fb::t_3c4365a0326933 208-214,216-266,290-296,298-347,500-506,508-560
+server/src/test/java/org/apache/rocketmq/studio/audit/OperationAuditServiceTest.java
+  s_9216308bd7d0fb::t_803677c71b0ce5 31-32,71-81
+server/src/test/java/org/apache/rocketmq/studio/auth/AuthCookieTest.java
+  s_9216308bd7d0fb::t_2bd14f157520c0 31,42-68
+server/src/test/java/org/apache/rocketmq/studio/auth/AuthInterceptorTest.java
+  s_9216308bd7d0fb::t_37b1f5709f628d 36,38-40,45-69
+server/src/test/java/org/apache/rocketmq/studio/auth/AuthServiceDatabaseTest.java
+  s_9216308bd7d0fb::t_10d02dc231a279 186-200
+server/src/test/java/org/apache/rocketmq/studio/auth/LoginRateLimiterTest.java
+  s_9216308bd7d0fb::t_dd0440bc9524e2 153-221
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/BrokerConfigDiffServiceTest.java
+  s_9216308bd7d0fb::t_71757a84694623 1-243
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterControllerTest.java
+  s_9216308bd7d0fb::t_15bded23faa149 19,71-73,267-323
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/RegistryProbeRunnerTest.java
+  s_9216308bd7d0fb::t_2d1f5649030733 1-44
+server/src/test/java/org/apache/rocketmq/studio/cluster/k8s/MybatisPlusK8sCertRepositoryTest.java
+  s_9216308bd7d0fb::t_f43ca6a13e4ae0 29-30,66-78
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/CollectorSchedulerTest.java
+  s_9216308bd7d0fb::t_e309f6610e676a 26,28,32-33,35-36,38,42,49-145,191-224,244,292-410
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MetricProfileServiceTest.java
+  s_9216308bd7d0fb::t_6dcf7031400942 31-49,57-58,60,65-89,102-113,188-200
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MetricsServiceTest.java
+  s_9216308bd7d0fb::t_36260614e274cc 247-287
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MybatisPlusAlertCollectionLeaseTest.java
+  s_9216308bd7d0fb::t_d5ce9b61ba73b7 1-56
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MybatisPlusMetricSnapshotRepositoryTest.java
+  s_9216308bd7d0fb::t_8b64f980073caa 1-71
+server/src/test/java/org/apache/rocketmq/studio/cluster/nameserver/NameServerConfigDiffServiceTest.java
+  s_9216308bd7d0fb::t_c96b66e7e72ca0 220-253
+server/src/test/java/org/apache/rocketmq/studio/cluster/nameserver/NameserverRegistryServiceTest.java
+  s_9216308bd7d0fb::t_8a04becb4e7bef 203-220
+server/src/test/java/org/apache/rocketmq/studio/cluster/nameserver/NamesrvAddrParserTest.java
+  s_9216308bd7d0fb::t_e222ebd5b14da4 22-23,39-50,83-92,149-154
+server/src/test/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressServiceTest.java
+  s_9216308bd7d0fb::t_a0d9ae597b350c 20,42,56-58,64-65,87-88,115-118,138-150,222-223
+server/src/test/java/org/apache/rocketmq/studio/common/domain/PageResultTest.java
+  s_9216308bd7d0fb::t_c5d5637d4260e9 21-23,25,35-46
+server/src/test/java/org/apache/rocketmq/studio/common/exception/GlobalExceptionHandlerTest.java
+  s_9216308bd7d0fb::t_ee403d5a9e68f1 23,26,31-32,95-101,115-119
+server/src/test/java/org/apache/rocketmq/studio/common/util/CsvUtilTest.java
+  s_9216308bd7d0fb::t_e022ca92e5d626 1-38
+server/src/test/java/org/apache/rocketmq/studio/common/util/SystemGroupFilterTest.java
+  s_9216308bd7d0fb::t_83b64ffb7fc5a4 36-41,44-46
+server/src/test/java/org/apache/rocketmq/studio/instance/InstanceResourceCountRunnerTest.java
+  s_9216308bd7d0fb::t_795fa3bac0b4fb 1-251
+server/src/test/java/org/apache/rocketmq/studio/instance/InstanceServiceTest.java
+  s_9216308bd7d0fb::t_b1f94b966a0dc0 43,51-52,61,302-320,348-403,864-907,1337-1511,1602-1657,1681-1704
+server/src/test/java/org/apache/rocketmq/studio/instance/acl/MybatisPlusAclRepositoryTest.java
+  s_9216308bd7d0fb::t_ceff58c4ab1f6a 43,156-175,287-306
+server/src/test/java/org/apache/rocketmq/studio/instance/dlq/DLQControllerTest.java
+  s_9216308bd7d0fb::t_85c18404f5a5bb 429-446
+server/src/test/java/org/apache/rocketmq/studio/instance/dlq/DLQServiceTest.java
+  s_9216308bd7d0fb::t_da63275330cd14 92-132
+server/src/test/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupControllerTest.java
+  s_9216308bd7d0fb::t_1bc748b10b9a18 102-118,152-188,322-380
+server/src/test/java/org/apache/rocketmq/studio/instance/message/MessageServiceTest.java
+  s_9216308bd7d0fb::t_fcded4a70919ac 121-123,128,179-182,192-228,236-238,246,248,270-289,308-325
+server/src/test/java/org/apache/rocketmq/studio/instance/message/QueryHistorySchemaIndexTest.java
+  s_9216308bd7d0fb::t_0ad3fc9ecb7fc3 1-97
+server/src/test/java/org/apache/rocketmq/studio/instance/message/QueryHistorySchemaMigrationTest.java
+  s_9216308bd7d0fb::t_c53c9f1ae4417d 1-82
+server/src/test/java/org/apache/rocketmq/studio/instance/message/QueryHistoryServiceIntegrationTest.java
+  s_9216308bd7d0fb::t_ee2adbf40c9d9d 53-54,63-66
+server/src/test/java/org/apache/rocketmq/studio/instance/message/QueryHistoryServiceTest.java
+  s_9216308bd7d0fb::t_415609144da754 21,36,42,53,65,83-128,134-135,141-197,269-280
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/MetadataServiceTest.java
+  s_9216308bd7d0fb::t_272345dc24f012 20,22,24-26,29-32,41,45-46,52-53,74-76,80-82,90,92,180-313,406,513-721
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/TopicControllerTest.java
+  s_9216308bd7d0fb::t_f68a1fee2b1da0 21,96-111,116-122,147-162,195-232
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/ClaudeCodeAgentProviderTest.java
+  s_9216308bd7d0fb::t_101b83f71506ed 53-64
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/CliAgentProviderTest.java
+  s_9216308bd7d0fb::t_2b1964c005cf61 21-25,29,97-110,175-199
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/LlmConfigServiceTest.java
+  s_9216308bd7d0fb::t_ff26924489252f 32,37,192,248-277,311,587-593,643-649
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/OpenAiCompatibleLlmClientTest.java
+  s_9216308bd7d0fb::t_c96b2375468e80 78-82
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/OpenAiCompatibleLlmGatewayTest.java
+  s_9216308bd7d0fb::t_48de034654ac34 67-84,300,310
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/QoderAgentProviderTest.java
+  s_9216308bd7d0fb::t_2b5e853e8adec1 1-52
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/ToolGatewayServiceTest.java
+  s_9216308bd7d0fb::t_253964dddc1b97 32,394-395,400-402,404-418,435-436,440-442,444-457,471-473,479-496
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertFingerprintTest.java
+  s_9216308bd7d0fb::t_2ef720764c4e3d 40-48
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertNotificationSuppressionServiceTest.java
+  s_9216308bd7d0fb::t_9874da2176b897 25-26,31,81-97,110-132
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertNotificationTemplateTest.java
+  s_9216308bd7d0fb::t_592be43a392c36 43-53
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertRuleAssetServiceTest.java
+  s_9216308bd7d0fb::t_d967d9793d60b1 27-28,106-127
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertRuleDurationTest.java
+  s_9216308bd7d0fb::t_d40c66a47e9d0c 9,15,23-32
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertRuleRequestDTOTest.java
+  s_9216308bd7d0fb::t_d411b234607665 44-52,61-69
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertRuleTransferDTOTest.java
+  s_9216308bd7d0fb::t_fd7879de0a7260 1-32
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertSchemaMigrationTest.java
+  s_9216308bd7d0fb::t_5bcf1b2b978a93 12-13,16-17,19,21-22,63-64,66-151,153
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertServiceTest.java
+  s_9216308bd7d0fb::t_6f37832e08ede0 244-261
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceControllerTest.java
+  s_9216308bd7d0fb::t_35fa1be017f8ab 1-111
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceScheduleTest.java
+  s_9216308bd7d0fb::t_ce4797c5c5ec68 1-127
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertSilenceServiceTest.java
+  s_9216308bd7d0fb::t_4f1ecadca44ac3 20,32,71-76,118,126-273
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertStateMachineTest.java
+  s_9216308bd7d0fb::t_12e72480192a22 26,107-117
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/MybatisPlusAlertRepositoryTest.java
+  s_9216308bd7d0fb::t_1b098287a7b5ed 294-295,318-324
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/MybatisPlusAlertSilenceRepositoryTest.java
+  s_9216308bd7d0fb::t_c9cf8e20abf412 1-159
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/MybatisPlusAlertStateRepositoryTest.java
+  s_9216308bd7d0fb::t_2bb360889fda5e 9,11,13,19-21,23,27-28,41-42,56-57,64-143
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NativeAlertEvaluationTransactionTest.java
+  s_9216308bd7d0fb::t_1c5805517a762d 1-101
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NativeAlertMetricCatalogServiceTest.java
+  s_9216308bd7d0fb::t_029d789f205f37 44-61
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NativeAlertProcessorTest.java
+  s_9216308bd7d0fb::t_991234c5e711b9 20,28,33-34,36,46-112,227-228,270-271,279-307,344-345,351-359,362-363,382-383,408,415-509,517-521
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NativeAlertRulePolicyTest.java
+  s_9216308bd7d0fb::t_16ee2e4dfa94d2 23,97-119
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NativeAlertRuleTestServiceTest.java
+  s_9216308bd7d0fb::t_2bc9a3f56642be 81-125
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NotificationOutboxMapperIntegrationTest.java
+  s_9216308bd7d0fb::t_0fb9207d11ffc6 1-104
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NotificationOutboxServiceTest.java
+  s_9216308bd7d0fb::t_4b24130fa16ab9 12,31,33-40,43,46,49,60-163,460-477,532-764
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/AuditControllerTest.java
+  s_9216308bd7d0fb::t_516ddd03028441 31,219-247
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/AuditServiceTest.java
+  s_9216308bd7d0fb::t_d82c54bb786f3f 191-208,222-231
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/MybatisPlusAuditRepositoryTest.java
+  s_9216308bd7d0fb::t_e02c7e92eacf0b 39-40,54,85,89,99,105,114-306
+server/src/test/java/org/apache/rocketmq/studio/persistence/DemoDataSqlCompatibilityTest.java
+  s_9216308bd7d0fb::t_daae3ad62096ca 35,62,90-106,166-177
+server/src/test/java/org/apache/rocketmq/studio/persistence/MybatisPlusSettingsRepositoryTest.java
+  s_9216308bd7d0fb::t_ddc361516ac1f2 19-20,25-26,28,93-123
+server/src/test/java/org/apache/rocketmq/studio/provider/alibaba/AliyunCatalogServiceTest.java
+  s_9216308bd7d0fb::t_2d1bab996dfb10 169-181,228-238
+server/src/test/java/org/apache/rocketmq/studio/provider/alibaba/AliyunConvertersLagTest.java
+  s_9216308bd7d0fb::t_e058d5a1759168 1-60
+server/src/test/java/org/apache/rocketmq/studio/provider/alibaba/AliyunInstanceProviderTest.java
+  s_9216308bd7d0fb::t_54b4469f98d935 47,227-293,329-359,806-811
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/ProxyConsumerResolverTest.java
+  s_9216308bd7d0fb::t_b900bc884751bf 97-114
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImplTest.java
+  s_9216308bd7d0fb::t_31498b22fc2f87 25,27-28,32-33,43-44,61,73-74,124-151,285-385,875-881
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQBrokerConfigServiceTest.java
+  s_9216308bd7d0fb::t_45db312bb41d5b 11,23,31,93-109
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQClusterProviderTest.java
+  s_9216308bd7d0fb::t_498cf0a3fe8c9c 76-91,213-231
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQDLQProviderTest.java
+  s_9216308bd7d0fb::t_ee15d65219fb14 28,32,34,43,54,57,59,246-386,391-393,407-409,442-444,456-458,485-487,511-513,542-544,581-583,621-623,639-691,715-717,781-802
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQDashboardProviderTest.java
+  s_9216308bd7d0fb::t_ecf2c5f4c83cfc 39-40,42,440-441,443-444,487-506,568-648,654-658,664-666
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQMessageProviderTest.java
+  s_9216308bd7d0fb::t_755756e3822e8b 232-248,258-271,275-316,723
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQMetadataProviderTest.java
+  s_9216308bd7d0fb::t_9a30f880f5c7d4 283-323
+server/src/test/java/org/apache/rocketmq/studio/provider/credential/CloudCredentialSchemaMigrationTest.java
+  s_9216308bd7d0fb::t_48b842bfedee59 1-97
+server/src/test/java/org/apache/rocketmq/studio/provider/credential/CloudCredentialServiceTest.java
+  s_9216308bd7d0fb::t_0e0b5cb99dce60 31,252-269
+server/src/test/java/org/apache/rocketmq/studio/provider/credential/MybatisPlusCloudCredentialRepositoryTest.java
+  s_9216308bd7d0fb::t_90154f79f88b47 20-23,30,40-41,66-78,99-112
+server/src/test/java/org/apache/rocketmq/studio/provider/tencent/TencentAclServiceTest.java
+  s_9216308bd7d0fb::t_35c6e8a658b138 20,38,46,116-175,277-293
+server/src/test/java/org/apache/rocketmq/studio/provider/tencent/TencentCatalogServiceTest.java
+  s_9216308bd7d0fb::t_c27343ce654366 20,24,39-41,53-55,61-64,136-177
+server/src/test/java/org/apache/rocketmq/studio/provider/tencent/TencentInstanceProviderTest.java
+  s_9216308bd7d0fb::t_ba80260e3e2cfa 33,55,58,542-563,618-681,713-728,919-963
+server/src/test/java/org/apache/rocketmq/studio/settings/SettingsServiceTest.java
+  s_9216308bd7d0fb::t_7dfeb51f287465 168-170,182-184
+web/.dockerignore
+  s_9216308bd7d0fb::t_24a6802750c1f1 10
+web/Dockerfile
+  s_9216308bd7d0fb::t_dddc098dfea16c 2-4,14
+web/README.md
+  s_9216308bd7d0fb::t_8209dcfac565fb 1-49
+web/eslint.config.js
+  s_9216308bd7d0fb::t_c077c4e99388f5 23-26
+web/nginx.conf
+  s_9216308bd7d0fb::t_b98a473e08923f 21,56-97
+web/nginx_contract_test.sh
+  s_9216308bd7d0fb::t_eaf48be8fd1153 1-54
+web/package-lock.json
+  s_9216308bd7d0fb::t_0659faaf8a1628 10-12
+web/package.json
+  s_9216308bd7d0fb::t_7f67b2848f58be 6-8
+web/src/api/acl.ts
+  s_9216308bd7d0fb::t_78e75a56138e4b 53-54
+web/src/api/ai.test.ts
+  s_9216308bd7d0fb::t_a74cad68649b41 20,32-35,53-54,63,72,80-102
+web/src/api/ai.ts
+  s_9216308bd7d0fb::t_2b1223845c8572 18-19,191,201-203
+web/src/api/audit.test.ts
+  s_9216308bd7d0fb::t_cd115edf9a29e2 20,75-95
+web/src/api/audit.ts
+  s_9216308bd7d0fb::t_807bc0d913b820 30-45,55-59
+web/src/api/client.ts
+  s_9216308bd7d0fb::t_9b55ad8b329ddf 82-87,106
+web/src/api/cluster.test.ts
+  s_9216308bd7d0fb::t_9f6262e6f9a247 26,240-276
+web/src/api/cluster.ts
+  s_9216308bd7d0fb::t_47fe32c183e639 125-155,250-257
+web/src/api/connections.ts
+  s_9216308bd7d0fb::t_c61e9cc6ae6741 5,9
+web/src/api/consumerGroups.test.ts
+  s_9216308bd7d0fb::t_145308d1b5b59b 29,122-169
+web/src/api/instance.test.ts
+  s_9216308bd7d0fb::t_3aabb80ef000fb 114-121
+web/src/api/instance.ts
+  s_9216308bd7d0fb::t_c9d4366183fc5d 121-124
+web/src/api/messageHistory.ts
+  s_9216308bd7d0fb::t_8bd24ee74f5a60 35-36,83-103
+web/src/api/metadata.test.ts
+  s_9216308bd7d0fb::t_45a6741a3e04c8 24,29,32-33,148-267
+web/src/api/metadata.ts
+  s_9216308bd7d0fb::t_e0169f58211e6b 33-36,40-43,47-50,76-93,178-198,219-230,376-417,422-424,427,429
+web/src/api/ops.test.ts
+  s_9216308bd7d0fb::t_ab2e836f7ed270 47,371-374,378-383
+web/src/api/ops.ts
+  s_9216308bd7d0fb::t_905f715b08f6b2 148-152,161-164,370-376
+web/src/components/AlertRuleAssetList.tsx
+  s_9216308bd7d0fb::t_ff49e8554f7118 53,139-141,149-150
+web/src/components/GrafanaDashboardList.tsx
+  s_9216308bd7d0fb::t_0e8d46fd292863 48-49,136-138,146-147,152-153,162-163
+web/src/components/MessageQueryHistoryDrawer.tsx
+  s_9216308bd7d0fb::t_16ef97e1f07cf7 112-117,133
+web/src/components/QueueBrowser.tsx
+  s_9216308bd7d0fb::t_5c33f48c1be539 45-47,62,65-66,75,77-78,83-84,105-108,116,118-119,138-139,286
+web/src/components/TopicConfigComparisonDrawer.tsx
+  s_9216308bd7d0fb::t_7b6d4749d857e1 1-319
+web/src/components/__tests__/AlertRuleAssetList.test.tsx
+  s_9216308bd7d0fb::t_ddbc27e15e66ea 189-206
+web/src/components/__tests__/GrafanaDashboardList.test.tsx
+  s_9216308bd7d0fb::t_06f29effc85ca5 234-271
+web/src/components/__tests__/MessageQueryHistoryDrawer.test.tsx
+  s_9216308bd7d0fb::t_de26a86264c0c6 63,90
+web/src/components/__tests__/QueueBrowser.test.tsx
+  s_9216308bd7d0fb::t_8f73fea751b76c 18,23,88,93-105,184-217
+web/src/components/__tests__/TopicConfigComparisonDrawer.test.tsx
+  s_9216308bd7d0fb::t_3c4ac3808cdff9 1-228
+web/src/hooks/useVisiblePolling.test.tsx
+  s_9216308bd7d0fb::t_fb154fa4d41426 131-164
+web/src/hooks/useVisiblePolling.ts
+  s_9216308bd7d0fb::t_9f87a122038c76 18,25-26,31,33,37-39,41
+web/src/i18n/languagePreference.ts
+  s_9216308bd7d0fb::t_0d1801cca9f7f0 19,24-25,29
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_c895a4b514978a 251-275,299-350,799-830,858-926,1129-1146,1180-1226,1589-1615,1622-1623
+web/src/mock/alertRuleAssets.ts
+  s_9216308bd7d0fb::t_5093589db55fe8 141
+web/src/mock/audit.ts
+  s_9216308bd7d0fb::t_c4e41ccc7c69b6 238-321
+web/src/mock/topics.ts
+  s_9216308bd7d0fb::t_8a7ce52172ba5d 243-246,250-253,261-267,271-274,279-285,289-292
+web/src/pages/ai/__tests__/AiMessage.test.tsx
+  s_9216308bd7d0fb::t_0e15937608a287 52-67
+web/src/pages/ai/__tests__/AiPage.test.tsx
+  s_9216308bd7d0fb::t_12debda3af2c45 29,170-200,304-353,386,394
+web/src/pages/ai/chatDraft.test.ts
+  s_9216308bd7d0fb::t_0029f103d8ee88 19,50-56
+web/src/pages/ai/chatDraft.ts
+  s_9216308bd7d0fb::t_94be93551a3a0e 18-19,23,28,49-52,57,64-68
+web/src/pages/ai/index.tsx
+  s_9216308bd7d0fb::t_82d0e10e5ef59d 50,59,68,128-138,410-412,451-452,493,534-539,560,568-569,573-577,587-591,611,682,736-746,1044-1054,1132-1146
+web/src/pages/cluster/__tests__/ClientsPage.test.tsx
+  s_9216308bd7d0fb::t_668b378e2d4892 201-247,299-338,537
+web/src/pages/cluster/__tests__/ClusterPage.test.tsx
+  s_9216308bd7d0fb::t_fd977c7c0e06f1 24-28,34,116-124,200,269-281,389,558-734
+web/src/pages/cluster/__tests__/clientsSearch.test.ts
+  s_9216308bd7d0fb::t_7516680a41da15 1-57
+web/src/pages/cluster/clients.tsx
+  s_9216308bd7d0fb::t_231b4777a0f1c0 27,49-54,71-94,152-153,285,301-342,344-347,393,395,402,453-454,508-647,796-879,886,910,920-924,942-944
+web/src/pages/cluster/clientsSearch.ts
+  s_9216308bd7d0fb::t_497a225551e45a 1-33
+web/src/pages/cluster/index.tsx
+  s_9216308bd7d0fb::t_bc11990b0ba06e 56-57,72,99,115-116,152-162,172-173,232-233,335,344,352,360-387,395,397,402,410,417,422,426,429,859-860,917-1064,1186,1189-1200,1204,1213,1808
+web/src/pages/home/__tests__/HomePage.test.tsx
+  s_9216308bd7d0fb::t_9efdc1bef55e9b 81-106,151-179
+web/src/pages/home/index.tsx
+  s_9216308bd7d0fb::t_5a8e3f6d2e0e6e 138,218-221,477-483
+web/src/pages/instance/__tests__/AclPage.test.tsx
+  s_9216308bd7d0fb::t_d2f905a15736ad 18,134-247,667,764-765,850-886
+web/src/pages/instance/__tests__/ConsumerPage.test.tsx
+  s_9216308bd7d0fb::t_1f3231bcbff127 18-19,23,34,40,42,52,74,94-99,111-118,128-129,132-134,150,172-191,219-251,297-448,541-547,557,560,563,601-667,735,760-775,791-871,1148-1152,1154-1158,1165,1168-1171,1199,1202-1224,1360-1361,1377-1435
+web/src/pages/instance/__tests__/DLQPage.test.tsx
+  s_9216308bd7d0fb::t_08dd355c94a3b1 27,158-163,399-423
+web/src/pages/instance/__tests__/InstancePage.test.tsx
+  s_9216308bd7d0fb::t_49c3617e7a40ac 428-429,480-481,517-561
+web/src/pages/instance/__tests__/MessagePage.test.tsx
+  s_9216308bd7d0fb::t_a0a7112fe38f83 28,30,106,108
+web/src/pages/instance/__tests__/MessagePageAsyncState.test.tsx
+  s_9216308bd7d0fb::t_97774256fddaa9 36-40,45-55,59-60,147,150-162,193-252,319-346,404-568,674,704,710
+web/src/pages/instance/__tests__/TopicPage.test.tsx
+  s_9216308bd7d0fb::t_15f7f5514ecdab 19,22,24,32,36,135-141,146,159-176,185-189,206-207,257-263,273,279,341-434,465-519,522-535,554-617,658,670,674-684,686,691,710,717-725,742-743,746,775-844
+web/src/pages/instance/acl.tsx
+  s_9216308bd7d0fb::t_90eb28db5570ba 20,37-38,72,97-99,134,163,204-206,225-227,343,372-373,394,707,714,733,736,740,743,754,821,859-870,957-1058,1339-1413
+web/src/pages/instance/consumer.tsx
+  s_9216308bd7d0fb::t_32e37c887e0275 44,76-77,84,88,90,104,107-111,153,177-238,284-287,314,323-327,330-363,380,385,432-433,453,457-458,463,466,468-469,492,497-499,501-503,505-507,516-519,558-568,576-579,614-687,749,751-769,776-777,779,972,993,1146-1175,1255-1359,1424,1429,1558,1563,1566,1792-1940,2361,2390,2392,2395-2398,2402,2406-2412,2434-2437,2454-2457,2468-2474,2477-2483,2486-2492,2495-2501,2504-2510,2513-2519,2524-2592
+web/src/pages/instance/dlq.tsx
+  s_9216308bd7d0fb::t_1380303d649d77 81-83,146,249,251,285,360-361,382,544,563,799-802,810-813,816-819,826-829
+web/src/pages/instance/index.tsx
+  s_9216308bd7d0fb::t_488a64c76a0b85 360,364-372
+web/src/pages/instance/message.tsx
+  s_9216308bd7d0fb::t_d82545e6cbc3bb 18,36-37,62,74-77,79-83,150-156,203-315,404-406,414-415,425-428,445-453,460-467,522,525,533-568,572,575,583,589-609,612,627-642,985-998,1000-1004,1046,1242
+web/src/pages/instance/topic.tsx
+  s_9216308bd7d0fb::t_fd9b7c9ab00c7d 43,56-59,64,72,75,88-89,91-103,160-167,291-305,307-333,346,381-386,395,402-459,474,480,647,660,665-667,775-797,799-862,867-882,933-1084,1184,1186-1204,1211-1212,1214,1261-1353,1356,1365-1378,1381,1383-1386,1505,1548-1554,1576-1612,1620,1637,1806,1909,1953-1957
+web/src/pages/login/index.test.tsx
+  s_9216308bd7d0fb::t_311a80ef157ced 63-71,83,91-121
+web/src/pages/login/index.tsx
+  s_9216308bd7d0fb::t_b249bb54866ad4 18,43,52-55,66
+web/src/pages/ops/AuditSummaryCards.tsx
+  s_9216308bd7d0fb::t_8444066014e7c0 1-111
+web/src/pages/ops/__tests__/AlertsPage.test.tsx
+  s_9216308bd7d0fb::t_765d9a21186841 19,482-524
+web/src/pages/ops/__tests__/AuditPage.test.tsx
+  s_9216308bd7d0fb::t_16e20d3fd85705 31,73-74,97-106,159-206,214,216,219,271,280,292,304
+web/src/pages/ops/__tests__/NotificationDeliveriesPage.test.tsx
+  s_9216308bd7d0fb::t_587cdcd03c4f33 8,21,25-32,85-171
+web/src/pages/ops/__tests__/SystemAlertsPage.test.tsx
+  s_9216308bd7d0fb::t_b783fc9b089cbb 13,15,22,24,38,43-48,101-146,451-465,478,496-609
+web/src/pages/ops/__tests__/alerts.test.ts
+  s_9216308bd7d0fb::t_174cdc2e8892b5 23-24,33,38,43-53
+web/src/pages/ops/__tests__/auditPresentation.test.ts
+  s_9216308bd7d0fb::t_68524445cb8d89 1-163
+web/src/pages/ops/alertRulePayload.ts
+  s_9216308bd7d0fb::t_db45d6d2af32ef 18-32,34-38,41-49,51-56,59-61
+web/src/pages/ops/alerts.tsx
+  s_9216308bd7d0fb::t_745d6359faf290 18,21,31,66,72-77,89,137-149,178-186,218-331,470-474,489-494,754-755,788-789,856-860,1358-1363,1394-1467
+web/src/pages/ops/audit.tsx
+  s_9216308bd7d0fb::t_c4f90c7c3721e8 32-33,42,48,52,54-61,106-107,207-229,232-285,318,324,331,333,338,340,342,356-361,367,373,375,412-418,430-436,467-473,491-492
+web/src/pages/ops/auditPresentation.ts
+  s_9216308bd7d0fb::t_0bcbca815df3c1 1-345
+web/src/pages/ops/notificationDeliveries.tsx
+  s_9216308bd7d0fb::t_3a5897d6f46ff0 7,58-60,64,68-69,83,95-97,112,140
+web/src/pages/ops/systemAlerts.tsx
+  s_9216308bd7d0fb::t_fb1b9ff46fbaa3 48,60,64-76,172-173,176,178,277-281,283-294,296-297,362,365-368,377,379,391-394,403-407,410-411,416-422,426-427,440-442,835-839,861-911,950-956,965-969,983-993
+web/src/pages/settings/AboutTab.tsx
+  s_9216308bd7d0fb::t_1095e3483c2893 27-28,53-54
+web/src/pages/settings/AiAssistantTab.tsx
+  s_9216308bd7d0fb::t_b6ffd3783affbd 120,171,182-186,300,313-315,317-319,337
+web/src/pages/settings/CloudCredentialTab.tsx
+  s_9216308bd7d0fb::t_95da6f2be8e668 77,137,143-146,164-166,190,197,323-326
+web/src/pages/settings/DataSourceTab.tsx
+  s_9216308bd7d0fb::t_c151961cc3941c 102-109,244-246
+web/src/pages/settings/GeneralSettingsTab.tsx
+  s_9216308bd7d0fb::t_1954df65bb7b29 190-193
+web/src/pages/settings/__tests__/AboutTab.test.tsx
+  s_9216308bd7d0fb::t_8a7f50c9439d03 1-51
+web/src/pages/settings/__tests__/AiAssistantTab.test.tsx
+  s_9216308bd7d0fb::t_b4d59b8ac31a2f 177-215
+web/src/pages/settings/__tests__/CloudCredentialTab.test.tsx
+  s_9216308bd7d0fb::t_5ebb0f838472d4 19,203-240
+web/src/pages/settings/__tests__/DataSourceTab.test.tsx
+  s_9216308bd7d0fb::t_06032a86b7a5aa 28,350-379
+web/src/pages/studio/BrokerCluster.tsx
+  s_9216308bd7d0fb::t_b87e7ef78030bb 220
+web/src/pages/studio/LiteTopic.tsx
+  s_9216308bd7d0fb::t_0ce71c9b09003e 72-75
+web/src/pages/studio/Proxy.tsx
+  s_9216308bd7d0fb::t_e14bef7f6ad44d 61,67,81,84,180,189,194,200,215,224-225,243
+web/src/pages/studio/UserManagement.tsx
+  s_9216308bd7d0fb::t_6b72f7fc3d8df0 92,96,168-170,177-179,248
+web/src/pages/studio/__tests__/BrokerCluster.test.tsx
+  s_9216308bd7d0fb::t_22cc9572a89e9b 268-309
+web/src/pages/studio/__tests__/LiteTopic.test.tsx
+  s_9216308bd7d0fb::t_38b72d37184610 25,81-88
+web/src/pages/studio/__tests__/Proxy.test.tsx
+  s_9216308bd7d0fb::t_019b25b45b8446 104-116,211-228
+web/src/pages/studio/__tests__/UserManagement.test.tsx
+  s_9216308bd7d0fb::t_7e97590647aa53 20,26-27,162-180
+web/src/services/aclService.test.ts
+  s_9216308bd7d0fb::t_4c59cecbc99e2e 26,85-91
+web/src/services/aclService.ts
+  s_9216308bd7d0fb::t_31f5788e94e5ce 99-101
+web/src/services/alertRuleAssetService.test.ts
+  s_9216308bd7d0fb::t_9bd349f7d4e575 57-64
+web/src/services/clusterService.ts
+  s_9216308bd7d0fb::t_79acfc3806c1ee 4,140-192
+web/src/services/connectionsService.test.ts
+  s_9216308bd7d0fb::t_70db2e89ee0897 80-97
+web/src/services/connectionsService.ts
+  s_9216308bd7d0fb::t_a03ea2f8167f8f 19-20,22-23
+web/src/services/consumerService.ts
+  s_9216308bd7d0fb::t_dbedb43918d0f5 5,11,14-15,20,25-40,68-75,84-86,95-106,170-172,204-206,244-249,253,274-308,311-313,325-414
+web/src/services/grafanaService.test.ts
+  s_9216308bd7d0fb::t_6713a65c249c55 38-49
+web/src/services/grafanaService.ts
+  s_9216308bd7d0fb::t_91ab9dccd00a85 15,27
+web/src/services/instanceService.test.ts
+  s_9216308bd7d0fb::t_da4372d6324b3e 168-188
+web/src/services/instanceService.ts
+  s_9216308bd7d0fb::t_ccddd93056ad1b 44-45,50,55-56
+web/src/services/messageService.test.ts
+  s_9216308bd7d0fb::t_3c863f78b906fb 23,58-66
+web/src/services/messageService.ts
+  s_9216308bd7d0fb::t_561b1042b5d4e4 64-66
+web/src/services/opsService.test.ts
+  s_9216308bd7d0fb::t_4be7ee97a113a5 23-24,27,117-183
+web/src/services/opsService.ts
+  s_9216308bd7d0fb::t_377f5958252b96 1-6,28,37-41,124,136,161-162,176,249,260,263,275,288-289,305,325,330,450-462,500-528
+web/src/services/topicService.test.ts
+  s_9216308bd7d0fb::t_241ce3f0c269fd 49-50,54-55
+web/src/services/topicService.ts
+  s_9216308bd7d0fb::t_662004089c67b5 5,13,16,20-34,37-42,58-66,128-158
+web/src/stores/aiChatHistoryStore.test.ts
+  s_9216308bd7d0fb::t_b5f0764103c2de 161-179
+web/src/stores/aiChatHistoryStore.ts
+  s_9216308bd7d0fb::t_5733c6173b2dc7 86-87,115
+web/src/stores/authStorage.ts
+  s_9216308bd7d0fb::t_dabdc1f07d32f5 18-19,39-44,48-52,54,58-61
+web/src/theme/themePreference.ts
+  s_9216308bd7d0fb::t_2db501996660f5 18-19,26-27,31,39,43
+web/src/utils/aclRiskDiagnostics.test.ts
+  s_9216308bd7d0fb::t_86c5520089a7d6 1-172
+web/src/utils/aclRiskDiagnostics.ts
+  s_9216308bd7d0fb::t_796fef37165c47 1-557
+web/src/utils/alertTemplatePreview.test.ts
+  s_9216308bd7d0fb::t_27334dc2f57a26 1-180
+web/src/utils/alertTemplatePreview.ts
+  s_9216308bd7d0fb::t_502cf13f573682 1-303
+web/src/utils/browserStorage.test.ts
+  s_9216308bd7d0fb::t_6b75e5d2c335da 1-44
+web/src/utils/browserStorage.ts
+  s_9216308bd7d0fb::t_c6db2403e8e2b3 1-42
+web/src/utils/clientConnectionDiagnostics.test.ts
+  s_9216308bd7d0fb::t_16d8eb4f068185 1-208
+web/src/utils/clientConnectionDiagnostics.ts
+  s_9216308bd7d0fb::t_8f899f3bbca273 1-607
+web/src/utils/consumerGroupDiagnostics.test.ts
+  s_9216308bd7d0fb::t_f512ac55b6b36e 1-157
+web/src/utils/consumerGroupDiagnostics.ts
+  s_9216308bd7d0fb::t_9ff0caad4f73f5 1-423
+web/src/utils/download.ts
+  s_9216308bd7d0fb::t_743fce2127e824 40-43
+web/src/utils/messagePayloadPreview.test.ts
+  s_9216308bd7d0fb::t_beca09ba100bab 1-256
+web/src/utils/messagePayloadPreview.ts
+  s_9216308bd7d0fb::t_70a4ac50f88ef0 1-410
+web/src/utils/messageProperties.test.ts
+  s_9216308bd7d0fb::t_b61208e6668131 22-43
+web/src/utils/messageProperties.ts
+  s_9216308bd7d0fb::t_0c0946ab01a2db 23-24,28
+web/src/utils/messageTraceDiagnostics.test.ts
+  s_9216308bd7d0fb::t_cae5c4ffd9957f 1-204
+web/src/utils/messageTraceDiagnostics.ts
+  s_9216308bd7d0fb::t_b08efe3e828283 1-577
+web/src/utils/messageTraceTopicStorage.test.ts
+  s_9216308bd7d0fb::t_36baa02420ee19 1-58
+web/src/utils/messageTraceTopicStorage.ts
+  s_9216308bd7d0fb::t_6caee5b373a392 1-77
+web/src/utils/resourceCsvImport.test.ts
+  s_9216308bd7d0fb::t_0c01b09319081a 26,61-68,74
+web/src/utils/resourceCsvImport.ts
+  s_9216308bd7d0fb::t_df364d7d78faef 46,82,124,218
+web/src/utils/timeZone.test.ts
+  s_9216308bd7d0fb::t_a662618de4b110 1-59
+web/src/utils/timeZone.ts
+  s_9216308bd7d0fb::t_09bdb88a3af823 1-116
+web/src/utils/topicConfigComparison.test.ts
+  s_9216308bd7d0fb::t_6f1c76a73dd61c 1-176
+web/src/utils/topicConfigComparison.ts
+  s_9216308bd7d0fb::t_11279151c5f817 1-142
+web/src/utils/topicRouteDiagnostics.test.ts
+  s_9216308bd7d0fb::t_fddf77ef2c223a 1-206
+web/src/utils/topicRouteDiagnostics.ts
+  s_9216308bd7d0fb::t_0d05036a924cc7 1-503
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "b2bf8a40b23f9833c95779c291f6024286c4b4a2",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
