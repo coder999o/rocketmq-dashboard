@@ -1,0 +1,42 @@
+web/src/utils/studioUserSecurity.test.ts
+  s_9216308bd7d0fb::t_740b079856531b 1-77,80-153,155-172,174-175
+  s_9216308bd7d0fb::t_000957d51d7c0e 78-79
+  s_9216308bd7d0fb::t_6d37f66ad92768 154,173
+web/src/pages/studio/__tests__/UserManagement.test.tsx
+  s_9216308bd7d0fb::t_be961c45141cc7 129,223
+  s_9216308bd7d0fb::t_ccf2023e4f39ea 24,33,44,128,130-166,203-222
+  s_3e6503a58b7aea::t_d9ce8529fd2ff1 224-225
+web/src/pages/studio/UserManagement.tsx
+  s_9216308bd7d0fb::t_0601fe907f91d1 48-53,84,102-105,214-221,242-255,257,262,268,272-279,283,337,351,415,424,437-440,455,470-474
+web/src/components/StudioUserSecurityPanel.tsx
+  s_9216308bd7d0fb::t_740b079856531b 1-85,87-173,179-212
+  s_9216308bd7d0fb::t_91581a0b130542 86,174-178
+web/src/utils/studioUserSecurity.ts
+  s_9216308bd7d0fb::t_740b079856531b 1-32,34-190,192-257,265-486
+  s_9216308bd7d0fb::t_000957d51d7c0e 33
+  s_9216308bd7d0fb::t_fec8d5f1d48304 191,258-264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "03efa71f7d3e3ad29957036321d990845c0220cb",
+  "prompts": {},
+  "sessions": {
+    "s_3e6503a58b7aea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6d99-d7f8-7df2-a776-3aab7a813099",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    },
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
