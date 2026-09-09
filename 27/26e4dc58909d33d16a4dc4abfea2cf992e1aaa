@@ -1,0 +1,33 @@
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/MetricProfileListToolHandlerTest.java
+  s_9216308bd7d0fb::t_7880729a853bea 1-102
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/MetricsQueryToolHandlerTest.java
+  s_9216308bd7d0fb::t_7880729a853bea 1-205
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/MetricsQueryToolHandler.java
+  s_9216308bd7d0fb::t_7880729a853bea 1-170
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/ToolCatalogTest.java
+  s_9216308bd7d0fb::t_7880729a853bea 45-46
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/MetricProfileListToolHandler.java
+  s_9216308bd7d0fb::t_7880729a853bea 1-87
+server/src/main/resources/tool-catalog/rmq-tools.yaml
+  s_9216308bd7d0fb::t_7880729a853bea 184-359
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/ToolGatewayServiceTest.java
+  s_9216308bd7d0fb::t_b9ab7f5926fd07 63
+  s_9216308bd7d0fb::t_7880729a853bea 20-24,57,74-75,84-85,100-101,110-111,124-125,157-158,178-179,371-456,680-681,708-709,764-765,794-795,825-826,904-934
+  s_9216308bd7d0fb::t_28d9c398ecb7b1 935
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "2726e4dc58909d33d16a4dc4abfea2cf992e1aaa",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
