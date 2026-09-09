@@ -1,0 +1,58 @@
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_a076d2d8eae158 2322-2331,2336-2359,2366-2369
+  s_9216308bd7d0fb::t_6ea34be15d4a70 2332-2335,2360-2365
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressBatchResultVO.java
+  s_9216308bd7d0fb::t_e121ba8684fb1e 1-40
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressBatchDTO.java
+  s_9216308bd7d0fb::t_e121ba8684fb1e 1-38
+web/src/pages/studio/Proxy.tsx
+  s_9216308bd7d0fb::t_a076d2d8eae158 49,55,60-62,67,76-81,91-94,239-245,250-281,408-425,435-436,561-603,605,607-608,636-641,643-645,727,732-777,782-798
+  s_9216308bd7d0fb::t_b712cc8d61bd18 397-399,626,632,642
+  s_9216308bd7d0fb::t_6ea34be15d4a70 246-249,426-434,604,778-781
+  s_9216308bd7d0fb::t_9fea62240ed18a 282
+  s_9216308bd7d0fb::t_884d2b34439e4b 606
+  s_9216308bd7d0fb::t_1330af07555d36 609
+  s_9216308bd7d0fb::t_6e20b20e9d14b0 799
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressService.java
+  s_9216308bd7d0fb::t_e121ba8684fb1e 64,283-346,348-352
+  s_9216308bd7d0fb::t_b712cc8d61bd18 347
+  s_9216308bd7d0fb::t_35febeed3fdbfb 353
+web/src/api/proxy.test.ts
+  s_9216308bd7d0fb::t_40860266e4dad2 21-26,76-115,122
+  s_9216308bd7d0fb::t_884adfa0985dcf 116-121
+server/src/test/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressServiceTest.java
+  s_9216308bd7d0fb::t_e375f08a7730c5 31,108-149
+  s_9216308bd7d0fb::t_eeee178f87371c 150
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyAddressBatchItemVO.java
+  s_9216308bd7d0fb::t_e121ba8684fb1e 1-36
+web/src/api/proxy.ts
+  s_9216308bd7d0fb::t_a076d2d8eae158 50-69,88-91,93
+  s_9216308bd7d0fb::t_b19223ae4cbc05 92
+  s_9216308bd7d0fb::t_e43e4848741918 94
+web/src/pages/studio/__tests__/Proxy.test.tsx
+  s_9216308bd7d0fb::t_03f43b7a671313 19,24,35,87-95,240-308,310-326
+  s_9216308bd7d0fb::t_d87cf281c3b94c 309
+  s_9216308bd7d0fb::t_365cee7e8d1a27 327
+server/src/main/java/org/apache/rocketmq/studio/cluster/proxy/ProxyController.java
+  s_9216308bd7d0fb::t_e121ba8684fb1e 60-64
+server/src/test/java/org/apache/rocketmq/studio/cluster/proxy/ProxyControllerTest.java
+  s_9216308bd7d0fb::t_e375f08a7730c5 185-230,247-258,261
+  s_9216308bd7d0fb::t_ab978f097de9f4 259-260
+  s_9216308bd7d0fb::t_082b739ebecaea 262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "64c175f471077335ff7f7123b2524e0d514163be",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
