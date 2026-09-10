@@ -1,0 +1,32 @@
+web/src/utils/supportBundle.ts
+  s_9216308bd7d0fb::t_a33c712ab36c61 1-459
+web/src/pages/settings/AboutTab.tsx
+  s_9216308bd7d0fb::t_de9b94db61b4ae 18-35,39-55,57-58,60-62,64-163
+  s_9216308bd7d0fb::t_f431eab341260a 56,59
+  s_9216308bd7d0fb::t_9935f6def7a13c 63
+web/src/utils/supportBundle.test.ts
+  s_9216308bd7d0fb::t_4aa1b6e77d82fa 1-60,62-100,102-132,134-216
+  s_9216308bd7d0fb::t_6ef0a2c61e324e 61,101,133
+web/src/pages/settings/__tests__/AboutTab.test.tsx
+  s_9216308bd7d0fb::t_f47a39d27442cc 18-22,25-37,55-56,58-60,70,83-100,102-114,116,118-120,125-131,133-137
+  s_9216308bd7d0fb::t_54fb93f7e00039 67
+  s_9216308bd7d0fb::t_d302a2d492eb43 61,66,101,117,121-124,138-148
+  s_9216308bd7d0fb::t_207784a45d1dc2 115,132
+  s_9216308bd7d0fb::t_439615303433b2 57,62-65,68-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "9e9e46b6356912b7789a62504bcb68e9a465b216",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
