@@ -1,0 +1,61 @@
+web/src/api/studioUsers.test.ts
+  s_9216308bd7d0fb::t_e4def0f8cc6772 24,119-141
+  s_9216308bd7d0fb::t_9151f501ae02d1 142-143
+web/src/pages/studio/__tests__/UserManagement.test.tsx
+  s_9216308bd7d0fb::t_a98b65d80fb27f 127-131,221-229,231-240,248,250,256-272,306,308
+  s_9216308bd7d0fb::t_83ac1dc2af5d44 230
+  s_9216308bd7d0fb::t_f200fc370c5e35 20,26,31,41,81-105,161
+  s_9216308bd7d0fb::t_08912302e62303 273,275-293
+  s_9216308bd7d0fb::t_6a3942902c46a9 274
+server/src/main/java/org/apache/rocketmq/studio/auth/StudioUserController.java
+  s_9216308bd7d0fb::t_1bf09e29c407fc 47-51
+web/src/pages/studio/UserManagement.tsx
+  s_9216308bd7d0fb::t_920fee5a7314d7 78,103-111
+  s_9216308bd7d0fb::t_196dae5adc8161 21-22,53,59,64
+  s_9216308bd7d0fb::t_d7e39ad05b8639 79
+  s_9216308bd7d0fb::t_0560d655b5a263 37-44
+  s_9216308bd7d0fb::t_f1cdc56922c656 323
+  s_9216308bd7d0fb::t_e2f78aa36200a4 447
+  s_9216308bd7d0fb::t_bab1c3165300c8 322,627-697,703-716
+  s_9216308bd7d0fb::t_a58199ee1320df 698-702
+  s_9216308bd7d0fb::t_c9a4d758e87520 198,203-237
+  s_9216308bd7d0fb::t_6d04041f063e15 151-152
+  s_9216308bd7d0fb::t_8a7c6c8e4b1ac0 352-391,408,424,438,452-457
+  s_9216308bd7d0fb::t_a6ca296ab01539 127-129,137
+  s_9216308bd7d0fb::t_4056846f9e224a 321
+  s_9216308bd7d0fb::t_2d10346686641f 350-351
+  s_9216308bd7d0fb::t_a957a0507c44b6 451
+  s_9216308bd7d0fb::t_476ec612ca6270 625-626
+server/src/main/java/org/apache/rocketmq/studio/auth/AuthService.java
+  s_9216308bd7d0fb::t_3d532531dbc295 271-284,509-532
+  s_9216308bd7d0fb::t_fe97dc4fdc1f22 533
+server/src/test/java/org/apache/rocketmq/studio/auth/StudioUserControllerTest.java
+  s_9216308bd7d0fb::t_a4b113036e5641 141-170
+  s_9216308bd7d0fb::t_5af098b3fdfd5e 140
+server/src/test/java/org/apache/rocketmq/studio/auth/AuthServiceSessionOverviewIntegrationTest.java
+  s_9216308bd7d0fb::t_1e32b48c24b0f0 97-139,147-158
+  s_9216308bd7d0fb::t_2d0f4701c97f0b 36,140-146
+  s_9216308bd7d0fb::t_91a5a46bfac143 19
+server/src/main/java/org/apache/rocketmq/studio/auth/StudioUserSessionDetailVO.java
+  s_9216308bd7d0fb::t_86a7072577712c 1-37
+web/src/api/studioUsers.ts
+  s_9216308bd7d0fb::t_de5a8f9e8db889 65-76,91-93,96
+  s_9216308bd7d0fb::t_fc1d186363bf9f 94-95
+  s_9216308bd7d0fb::t_ef63cf4b94274d 97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "8f4a5bd295d2b0be65f6aa1827cc7fbf8f54eefd",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
