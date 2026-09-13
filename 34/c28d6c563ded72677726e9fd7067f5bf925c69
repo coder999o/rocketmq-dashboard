@@ -1,0 +1,33 @@
+web/src/components/AlertRuleAssetList.tsx
+  s_9216308bd7d0fb::t_98c64bba72c1af 231-234,371,421-451,453-466,468-478
+  s_9216308bd7d0fb::t_0fb548aae697ed 19-34,44-55,65-105,147-155,230,235-247,253-254,260-261,275,299-370,394-400,452,467,487-488
+  s_9216308bd7d0fb::t_85d90354705344 372
+  s_9216308bd7d0fb::t_968c9334792917 479
+web/src/utils/alertRuleAssetInsights.ts
+  s_9216308bd7d0fb::t_8bee4e03ed86ef 1-391
+  s_9216308bd7d0fb::t_493990bfb96832 392
+web/src/components/__tests__/AlertRuleAssetList.test.tsx
+  s_9216308bd7d0fb::t_fdf376778ec137 108-148
+  s_9216308bd7d0fb::t_55b937556fbbb5 219,238,260
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_7e2c77d2febfa7 2220-2269
+web/src/utils/alertRuleAssetInsights.test.ts
+  s_9216308bd7d0fb::t_7699b87630225b 1-90,92-159,161,172-211
+  s_9216308bd7d0fb::t_21e28bae3f90fe 91,160,162-171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "34c28d6c563ded72677726e9fd7067f5bf925c69",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
