@@ -1,0 +1,16 @@
+server/src/test/java/org/apache/rocketmq/studio/auth/AuthInterceptorTest.java
+  h_852ebd835e0ec3 527-528
+server/src/main/java/org/apache/rocketmq/studio/auth/AuthInterceptor.java
+  h_852ebd835e0ec3 86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "be576564ee9e60a17c17cdb4f18b270a57761da4",
+  "prompts": {},
+  "humans": {
+    "h_852ebd835e0ec3": {
+      "author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
