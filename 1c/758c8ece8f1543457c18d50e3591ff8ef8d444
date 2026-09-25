@@ -1,0 +1,22 @@
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/conversation/AiConversationController.java
+  s_9216308bd7d0fb::t_9a9ca49f040867 135,240,246-249
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/conversation/AiStreamControllerTest.java
+  s_9216308bd7d0fb::t_c6bb17f52bac16 280-295
+  s_9216308bd7d0fb::t_b271059d6dc4ed 279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1c758c8ece8f1543457c18d50e3591ff8ef8d444",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
