@@ -1,0 +1,21 @@
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQDLQProvider.java
+  s_9216308bd7d0fb::t_6562a158987aa2 276-277,279-281
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQDLQProviderTest.java
+  s_9216308bd7d0fb::t_8ef7065e434bca 437-472
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b38447f24afb5024374ebb065b801093574c6528",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "unknown"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
