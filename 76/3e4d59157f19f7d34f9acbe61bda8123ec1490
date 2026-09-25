@@ -1,0 +1,24 @@
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQDLQProviderTest.java
+  s_9216308bd7d0fb::t_101950b75457a4 438-443,445,447,449,451-472
+  s_9216308bd7d0fb::t_cb0de4b4380400 444,446,448,450
+  s_9216308bd7d0fb::t_202f0664a22a7e 437
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQDLQProvider.java
+  s_9216308bd7d0fb::t_c3e94076b395cb 276
+  s_9216308bd7d0fb::t_cb0de4b4380400 277,279-281
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "763e4d59157f19f7d34f9acbe61bda8123ec1490",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
