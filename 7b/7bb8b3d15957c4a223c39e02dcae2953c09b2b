@@ -1,0 +1,23 @@
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NotificationOutboxService.java
+  s_9216308bd7d0fb::t_cbf396f5c9d37c 253-256
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NotificationOutboxServiceTest.java
+  s_9216308bd7d0fb::t_cbf396f5c9d37c 585-588
+  s_9216308bd7d0fb::t_331b25f81afc67 576-584,589-591
+  s_9216308bd7d0fb::t_79cf2cbab8364f 575
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7b7bb8b3d15957c4a223c39e02dcae2953c09b2b",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
