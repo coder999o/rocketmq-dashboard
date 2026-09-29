@@ -1,0 +1,22 @@
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MybatisPlusMetricSnapshotRepositoryTest.java
+  s_9216308bd7d0fb::t_51bea4dd7d5f8e 34-35,73-93
+  s_9216308bd7d0fb::t_adb0c32900a896 94
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MybatisPlusMetricSnapshotRepository.java
+  s_9216308bd7d0fb::t_b3e976a8c9ef72 69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "97461a12ae847d0e9670c8a4ae73566d8177cdd9",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
