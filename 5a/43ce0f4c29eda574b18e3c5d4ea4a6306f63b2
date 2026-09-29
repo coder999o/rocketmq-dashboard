@@ -1,0 +1,25 @@
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertFingerprintTest.java
+  s_9216308bd7d0fb::t_71ec1783aa8704 49-61
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NativeAlertProcessorTest.java
+  s_9216308bd7d0fb::t_327348e8630f0c 172,208-235
+  s_9216308bd7d0fb::t_d2af6324b9e1b0 173-197,206-207,236-241
+  s_9216308bd7d0fb::t_f6761de74e72c9 198-205
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertFingerprint.java
+  s_9216308bd7d0fb::t_ecb0e679130f5c 31-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5a43ce0f4c29eda574b18e3c5d4ea4a6306f63b2",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
