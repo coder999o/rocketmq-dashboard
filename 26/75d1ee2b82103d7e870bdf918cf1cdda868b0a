@@ -1,0 +1,21 @@
+web/src/components/__tests__/TopicConfigComparisonDrawer.test.tsx
+  s_9216308bd7d0fb::t_e370a2030bd45f 219-235
+web/src/components/TopicConfigComparisonDrawer.tsx
+  s_9216308bd7d0fb::t_59c222ee2da63b 129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2675d1ee2b82103d7e870bdf918cf1cdda868b0a",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
