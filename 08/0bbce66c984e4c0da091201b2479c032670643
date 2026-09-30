@@ -1,0 +1,29 @@
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQDLQProvider.java
+  s_9216308bd7d0fb::t_61c7aa36ea60ca 59-61,417-422
+docs/api-spec.md
+  s_9216308bd7d0fb::t_61c7aa36ea60ca 1609,1671
+server/src/main/java/org/apache/rocketmq/studio/instance/dlq/DLQMessageExcelRow.java
+  s_9216308bd7d0fb::t_61c7aa36ea60ca 52-53,66
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQDLQProviderTest.java
+  s_9216308bd7d0fb::t_45e32bb0b20e4e 974-979,981-993
+  s_9216308bd7d0fb::t_8b8e806909ee52 980
+  s_9216308bd7d0fb::t_59a9306187c36a 973
+server/src/test/java/org/apache/rocketmq/studio/instance/dlq/DLQMessageExcelRowTest.java
+  s_9216308bd7d0fb::t_45e32bb0b20e4e 52-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "080bbce66c984e4c0da091201b2479c032670643",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
