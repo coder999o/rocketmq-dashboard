@@ -1,0 +1,26 @@
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQMetadataProvider.java
+  s_9216308bd7d0fb::t_1f18bcc4521e15 371
+  s_9216308bd7d0fb::t_40f64a83f1307b 80,294-301,338,341-343,350-364,366-370,372-377,382-383,387,389-390,395,397,402,423-424,426-428,430-431
+  s_9216308bd7d0fb::t_9af232991f7ae8 340
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQMetadataProviderTest.java
+  s_9216308bd7d0fb::t_544f605555baaa 66,846-850,860,866-867,876-879,881
+  s_9216308bd7d0fb::t_17ceaf2b76b174 827,830-845,851-859,861-865,868-875,880,882-887
+  s_9216308bd7d0fb::t_5a7053e4b84a6c 65,67,777-826,829
+  s_9216308bd7d0fb::t_c1a46ea4838fd0 828
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "afc633b1fc3262930e8df854ed55bfa53800ec89",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
