@@ -1,0 +1,22 @@
+web/src/pages/studio/__tests__/LiteTopic.test.tsx
+  s_9216308bd7d0fb::t_312331147c23fd 159-184
+web/src/pages/studio/LiteTopic.tsx
+  s_9216308bd7d0fb::t_c05a8a4a6b79e3 144-145,283,285-286,458,877,879,881-882,886-896
+  s_9216308bd7d0fb::t_abf6dc936a4d27 897-899
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "96e07efe6f9ddb3375b290626d0b4d3bc3714cf9",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
