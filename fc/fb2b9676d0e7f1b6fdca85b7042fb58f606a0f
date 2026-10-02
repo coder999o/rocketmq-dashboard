@@ -1,0 +1,34 @@
+web/src/pages/studio/Ops.tsx
+  s_d67880dc6afe45::t_876ac461b5ba68 71-72
+  s_9216308bd7d0fb::t_f6143134a63166 78-80
+web/src/pages/studio/__tests__/Ops.test.tsx
+  s_9216308bd7d0fb::t_13b7f4a0372b9c 198,202
+  s_d67880dc6afe45::t_aa75cbf1fc4aaa 199-201
+  s_d67880dc6afe45::t_6360317f8f15f7 183-197,203-204
+  s_9216308bd7d0fb::t_7671b71b6c7fca 205-237
+  s_9216308bd7d0fb::t_c903321a9544e9 238-240
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fcfb2b9676d0e7f1b6fdca85b7042fb58f606a0f",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    },
+    "s_d67880dc6afe45": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fad0-9755-7202-8c93-be2f7666769f",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
