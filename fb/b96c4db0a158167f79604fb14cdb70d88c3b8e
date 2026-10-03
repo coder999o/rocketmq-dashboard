@@ -1,0 +1,22 @@
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/MetadataServiceTest.java
+  s_9216308bd7d0fb::t_f8fac5aeed0e62 1020-1021
+  s_9216308bd7d0fb::t_381bddb25f5105 1004-1019,1022-1033
+server/src/main/java/org/apache/rocketmq/studio/instance/topic/MetadataService.java
+  s_9216308bd7d0fb::t_c51f3afeece218 557-559
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fbb96c4db0a158167f79604fb14cdb70d88c3b8e",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
