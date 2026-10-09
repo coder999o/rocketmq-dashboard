@@ -1,0 +1,21 @@
+web/src/components/MetricsExplorer.tsx
+  s_9216308bd7d0fb::t_a7d6781af3c525 1150-1151,1173-1174
+web/src/components/__tests__/MetricsExplorer.test.tsx
+  s_9216308bd7d0fb::t_998518608c4076 1138-1167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab87b5db78ab494daae9dee8330885056589f954",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
