@@ -1,0 +1,16 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MybatisPlusMetricSnapshotRepository.java
+  h_852ebd835e0ec3 35,70-75
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MybatisPlusMetricSnapshotRepositoryTest.java
+  h_852ebd835e0ec3 21,23-24,26,29,35,39-40,44,84,88-89,103-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "171ad51c9115bde6632a519e14fae86966a25d57",
+  "prompts": {},
+  "humans": {
+    "h_852ebd835e0ec3": {
+      "author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
