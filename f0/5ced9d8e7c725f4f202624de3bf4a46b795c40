@@ -1,0 +1,25 @@
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImplTest.java
+  s_9216308bd7d0fb::t_b7ca041a0400c8 1748-1749,1831
+  s_9216308bd7d0fb::t_8b2e761dc2c2c9 34,1734-1747,1750-1819
+  s_9216308bd7d0fb::t_aa9af1afa07e59 1820
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImpl.java
+  s_9216308bd7d0fb::t_a34396bec45cee 612
+  s_9216308bd7d0fb::t_b7ca041a0400c8 30,502,595-611,613,616-617
+  s_9216308bd7d0fb::t_e6a3b738aeb2a8 614-615,618
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f05ced9d8e7c725f4f202624de3bf4a46b795c40",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
