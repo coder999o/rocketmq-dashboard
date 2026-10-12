@@ -1,0 +1,22 @@
+web/src/utils/clientConnectionDiagnostics.ts
+  s_9216308bd7d0fb::t_d5c50862ff2afa 157,162,267
+web/src/utils/clientConnectionDiagnostics.test.ts
+  s_9216308bd7d0fb::t_a3839c9979ea5e 134-156,158
+  s_9216308bd7d0fb::t_1d46a6b48e7b92 157,159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "61076bdcc8247f139586cf55555c6799095fbada",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
