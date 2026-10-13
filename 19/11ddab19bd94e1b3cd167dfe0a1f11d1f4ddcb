@@ -1,0 +1,41 @@
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NotificationWebhookEncodingTest.java
+  s_9216308bd7d0fb::t_1afa6ceefdbc29 53
+  s_9216308bd7d0fb::t_2293dc27026f4d 113
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NotificationOutboxService.java
+  s_9216308bd7d0fb::t_1afa6ceefdbc29 323,325
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NotificationOutboxMapperIntegrationTest.java
+  s_9216308bd7d0fb::t_a6c6a7c755aec9 150
+  s_9216308bd7d0fb::t_879d8daa32db89 28-33,36,41,44-51,70-84,89-113,116-122,125-130,156-157
+  s_9216308bd7d0fb::t_83b2cec412b9f9 85-88,114-115,123-124,131-146,148-149,152-155
+  s_9216308bd7d0fb::t_1afa6ceefdbc29 147,151,265
+  s_3e6503a58b7aea::t_b4434a7afc5ca2 158
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NotificationOutboxServiceTest.java
+  s_9216308bd7d0fb::t_1afa6ceefdbc29 43,177,245,276,320,357,392,420,450,479,485
+  s_9216308bd7d0fb::t_6d3360099ee5fc 636,706,757,814,856,954,991
+server/src/main/java/org/apache/rocketmq/studio/persistence/mapper/RmqAlertNotificationOutboxMapper.java
+  s_9216308bd7d0fb::t_1afa6ceefdbc29 42-43,47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1911ddab19bd94e1b3cd167dfe0a1f11d1f4ddcb",
+  "prompts": {},
+  "sessions": {
+    "s_3e6503a58b7aea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6d99-d7f8-7df2-a776-3aab7a813099",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    },
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
