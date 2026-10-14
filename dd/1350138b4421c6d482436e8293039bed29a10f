@@ -1,0 +1,34 @@
+web/src/utils/messageTraceDiagnostics.ts
+  s_9216308bd7d0fb::t_8a0e491550cebb 302,311-313,315-317,472,479,579-585,587
+web/src/pages/instance/__tests__/MessagePage.test.tsx
+  s_9216308bd7d0fb::t_a763890004202c 561-618,620-640,642-662
+  s_9216308bd7d0fb::t_63d21d89107fe0 619,641,663
+web/src/api/message.ts
+  s_9216308bd7d0fb::t_8a0e491550cebb 44-45,190,223
+web/src/i18n/translations.ts
+  s_9216308bd7d0fb::t_8a0e491550cebb 598-601
+web/src/api/message.test.ts
+  s_9216308bd7d0fb::t_8a0e491550cebb 230
+  s_9216308bd7d0fb::t_6376bfd1120622 212
+  s_9216308bd7d0fb::t_930a6b4c293b11 131-134,245-248
+web/src/pages/instance/message.tsx
+  s_9216308bd7d0fb::t_8a0e491550cebb 55,1074-1079
+web/src/utils/messageTraceDiagnostics.test.ts
+  s_9216308bd7d0fb::t_c3f0b9fd057a82 56-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dd1350138b4421c6d482436e8293039bed29a10f",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
