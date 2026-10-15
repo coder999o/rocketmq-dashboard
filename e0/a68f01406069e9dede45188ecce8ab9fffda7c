@@ -1,0 +1,23 @@
+rmqctl/cmd/config.go
+  s_9216308bd7d0fb::t_c4af423e08126c 11,39-47
+rmqctl/cmd/config_test.go
+  s_9216308bd7d0fb::t_85c8a15d4579fa 91-127,129-151,153-155,159-173,177-179
+  s_9216308bd7d0fb::t_ff0b7d683d2413 21
+  s_9216308bd7d0fb::t_c4af423e08126c 128,152,156-158,174-176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e0a68f01406069e9dede45188ecce8ab9fffda7c",
+  "prompts": {},
+  "sessions": {
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
