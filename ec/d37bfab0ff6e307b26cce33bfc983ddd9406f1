@@ -1,0 +1,21 @@
+server/src/main/java/org/apache/rocketmq/studio/auth/AuthService.java
+  s_e2b14317729946::t_2ee4b384e80c71 138,386-390
+server/src/test/java/org/apache/rocketmq/studio/auth/AuthServiceLoginConcurrencyIntegrationTest.java
+  s_e2b14317729946::t_b896b8ee894250 1-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ecd37bfab0ff6e307b26cce33bfc983ddd9406f1",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
