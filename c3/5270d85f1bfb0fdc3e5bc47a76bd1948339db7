@@ -1,0 +1,24 @@
+web/src/pages/instance/__tests__/TopicPage.test.tsx
+  s_e2b14317729946::t_15757a02b48e1e 1498-1501,1503-1508,1510-1516,1518-1525,1527-1531,1533-1534,1536-1538,1543-1544,1546,1550-1552
+  s_e2b14317729946::t_cfd136a9a34057 1502,1509,1526,1532,1535,1545
+  s_e2b14317729946::t_43ad058ffefaf4 1517
+  s_e2b14317729946::t_2fc0a78b170e80 1539-1542,1547-1549
+web/src/pages/instance/topic.tsx
+  s_e2b14317729946::t_eb24b05fe4238d 528-530,629-631
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c35270d85f1bfb0fdc3e5bc47a76bd1948339db7",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
