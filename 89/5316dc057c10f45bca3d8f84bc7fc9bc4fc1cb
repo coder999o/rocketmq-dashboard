@@ -1,0 +1,22 @@
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/OpenAiCompatibleLlmClient.java
+  s_e2b14317729946::t_d430edb7215086 54,154-163
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/OpenAiCompatibleLlmClientTest.java
+  s_e2b14317729946::t_d8da9b4a8c62a0 232-242
+  s_e2b14317729946::t_b254563a0b2585 230-231,243-270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "895316dc057c10f45bca3d8f84bc7fc9bc4fc1cb",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
