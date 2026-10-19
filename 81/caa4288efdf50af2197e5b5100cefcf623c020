@@ -1,0 +1,22 @@
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/AuditServiceTest.java
+  s_e2b14317729946::t_aeabedff4d3c23 203-228
+  s_e2b14317729946::t_1924dfe5d98546 173,192
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditService.java
+  s_e2b14317729946::t_1924dfe5d98546 31,103-105,109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "81caa4288efdf50af2197e5b5100cefcf623c020",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
