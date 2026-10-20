@@ -1,0 +1,21 @@
+web/src/pages/settings/GeneralSettingsTab.tsx
+  s_e2b14317729946::t_195cf2eed1a941 63,252,274
+web/src/pages/settings/__tests__/GeneralSettingsTab.test.tsx
+  s_e2b14317729946::t_195cf2eed1a941 24-25,56-60,66,169-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2e4244f3c2ac45342f6f01053ac1c9ad63d104ff",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
