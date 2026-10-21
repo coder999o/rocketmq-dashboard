@@ -1,0 +1,23 @@
+web/src/utils/aclRiskDiagnostics.ts
+  s_e2b14317729946::t_7099acdd18604a 231-235
+web/src/pages/instance/__tests__/AclPage.test.tsx
+  s_e2b14317729946::t_7099acdd18604a 216-229,1105-1114,1125,1134
+web/src/utils/aclRiskDiagnostics.test.ts
+  s_e2b14317729946::t_7099acdd18604a 64-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0a51d86c6e0b0d1ef9e64742da68808bd6e3af53",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
