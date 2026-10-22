@@ -1,0 +1,21 @@
+web/src/pages/cluster/certs.tsx
+  s_e2b14317729946::t_1381b68d38b548 42,205
+web/src/pages/cluster/__tests__/K8sCertsPage.test.tsx
+  s_e2b14317729946::t_1381b68d38b548 162-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b1a3e7f3eb559e6595470f4a3325a102361f3bc1",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
