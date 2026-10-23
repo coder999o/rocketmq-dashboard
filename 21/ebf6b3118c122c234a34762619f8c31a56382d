@@ -1,0 +1,21 @@
+web/src/pages/settings/__tests__/DataSourceTab.test.tsx
+  s_e2b14317729946::t_b6b33ce7cb9740 81-89,482-555
+web/src/pages/settings/DataSourceTab.tsx
+  s_e2b14317729946::t_b6b33ce7cb9740 94-114,269
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "21ebf6b3118c122c234a34762619f8c31a56382d",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
