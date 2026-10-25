@@ -1,0 +1,21 @@
+server/src/main/java/org/apache/rocketmq/studio/instance/ResourceOwnershipGuard.java
+  s_e2b14317729946::t_11ecbd56edfe41 188-195
+server/src/test/java/org/apache/rocketmq/studio/instance/InstanceUpdateConcurrencyTest.java
+  s_e2b14317729946::t_11ecbd56edfe41 1-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3973da099969e01177d196d778409a371eee9535",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
