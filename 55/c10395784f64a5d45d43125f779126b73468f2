@@ -1,0 +1,21 @@
+rmqctl/scripts/clean_test.go
+  s_e2b14317729946::t_2c41078cfc4b49 1-128
+rmqctl/Makefile
+  s_e2b14317729946::t_2c41078cfc4b49 127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "55c10395784f64a5d45d43125f779126b73468f2",
+  "prompts": {},
+  "sessions": {
+    "s_e2b14317729946": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1430b-b0b9-75b2-b4d7-39479f39a5d7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "coder999o <soft_99@126.com>"
+    }
+  }
+}
